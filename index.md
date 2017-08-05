@@ -11,7 +11,7 @@ layout: default
 * I teach college students  
 [Mount Saint Mary's University](https://www.msmu.edu/)
 
-* I have a graduate degree in I/O & clinical psychology  
+* I have a graduate degree in i/o & clinical psychology  
 [MA in Psychology, Sofia University](http://www.sofia.edu/)
 
 * I study computer science  
