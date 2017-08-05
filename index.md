@@ -3,7 +3,7 @@ title: hello
 layout: default
 ---
 
-<br> <br>
+<br>
 Say hi to recursive cat!
 
 :octocat:
