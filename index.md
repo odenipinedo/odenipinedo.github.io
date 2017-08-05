@@ -17,3 +17,4 @@ layout: default
 * I study computer science  
 [MS in Computer Science, CSUDH](http://csc.csudh.edu/)
 
+Octocat says, "Thank you for visiting!!!"  :octocat:
