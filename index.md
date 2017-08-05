@@ -1,5 +1,5 @@
 ---
-title: Hello
+title: hello
 layout: default
 ---
 
