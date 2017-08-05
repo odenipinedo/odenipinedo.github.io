@@ -1,2 +1,2 @@
 # dapinedo.github.io
-Personal website
+Daniel Pinedo
