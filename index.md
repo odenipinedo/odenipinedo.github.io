@@ -1,6 +1,6 @@
 ---
-title: This is my title
-layout: post
+title: Hello
+layout: default
 ---
 
 :octocat:
