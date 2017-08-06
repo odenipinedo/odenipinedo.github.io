@@ -18,3 +18,9 @@ layout: default
 [MS in Computer Science, CSUDH](http://csc.csudh.edu/)
 
 Octocat says, *"Thank you for visiting!!!"*  :octocat:
+
+<li>
+    <a href="https://twitter.com/{{ site.twitter_username }}">
+      <i class="fa fa-twitter"></i> Twitter
+    </a>
+</li>
