@@ -19,8 +19,4 @@ layout: default
 
 Octocat says, *"Thank you for visiting!!!"*  :octocat:
 
-{% if site.twitter_username %}
-<li>
-{% include icon-twitter.html username=site.twitter_username %}
-</li>
-{% endif %}
+<a href="https://twitter.com/daniel_a_pinedo" class="twitter-follow-button" data-show-count="false">Follow @daniel_a_pinedo</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
