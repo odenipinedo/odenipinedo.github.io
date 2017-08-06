@@ -19,7 +19,7 @@ layout: default
 * i have a graduate degree in i/o & clinical psychology  
 [MA in Psychology, Sofia University](http://www.sofia.edu/)
 
-Octocat says, *"Thank you for visiting, please connect with me on __Twitter__ or __LinkedIn__!!!"*  :octocat:
+Octocat says, *"Thank you for visiting!! Please connect with me on __Twitter__ or __LinkedIn__"*  :octocat:
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="danielpinedo"><a class="LI-simple-link" href='https://www.linkedin.com/in/danielpinedo?trk=profile-badge'>Daniel Pinedo</a></div>
