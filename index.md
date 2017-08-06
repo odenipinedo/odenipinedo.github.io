@@ -19,8 +19,8 @@ layout: default
 
 Octocat says, *"Thank you for visiting!!!"*  :octocat:
 
-<li>
-    <a href="https://twitter.com/{{ site.twitter_username }}">
-      <i class="fa fa-twitter"></i> Twitter
-    </a>
-</li>
+{% if site.twitter_username %}
+          <li>
+            {% include icon-twitter.html username=site.twitter_username %}
+          </li>
+          {% endif %}
