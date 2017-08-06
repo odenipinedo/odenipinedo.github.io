@@ -1,5 +1,10 @@
 theme: jekyll-theme-tactile
 title: Daniel A Pinedo
 description: Welcome! Click the button below to see more or contact me.
+
+twitter_username:     daniel_a_pinedo
+instagram_username:   daniel_a_pinedo
+linkedin_username:    danielpinedo
+
 gems:
   - jemoji
