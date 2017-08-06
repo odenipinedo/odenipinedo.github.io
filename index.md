@@ -7,19 +7,19 @@ layout: default
 
 ### Some things about me
 
-* I am a buddhist  
+* i am a buddhist  
 [Koyasan Betsuin Los Angeles](http://www.koyasanbetsuin.org/)
 
-* I teach college students  
+* i teach college students  
 [Mount Saint Mary's University](https://www.msmu.edu/)
 
-* I have a graduate degree in i/o & clinical psychology  
-[MA in Psychology, Sofia University](http://www.sofia.edu/)
-
-* I study computer science  
+* i study computer science  
 [MS in Computer Science, CSUDH](http://csc.csudh.edu/)
 
-Octocat says, *"Thank you for visiting!!!"*  :octocat:
+* i have a graduate degree in i/o & clinical psychology  
+[MA in Psychology, Sofia University](http://www.sofia.edu/)
+
+Octocat says, *"Thank you for visiting, please connect with me on Twitter __<above>__ or LinkedIn __<below>__ !!!"*  :octocat:
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="danielpinedo"><a class="LI-simple-link" href='https://www.linkedin.com/in/danielpinedo?trk=profile-badge'>Daniel Pinedo</a></div>
