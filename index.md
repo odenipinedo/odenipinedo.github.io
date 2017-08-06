@@ -20,7 +20,7 @@ layout: default
 Octocat says, *"Thank you for visiting!!!"*  :octocat:
 
 {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
+<li>
+    {% include icon-twitter.html username=site.twitter_username %}
+</li>
+{% endif %}
