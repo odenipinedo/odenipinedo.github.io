@@ -9,3 +9,4 @@ social_links  :
 
 gems:
   - jemoji
+  - jekyll-sitemap
