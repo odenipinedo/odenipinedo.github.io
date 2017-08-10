@@ -1,15 +1,15 @@
-theme.           : jekyll-theme-cayman
-title.           : Daniel A Pinedo
-description.     :
+theme: jekyll-theme-cayman
+title: Daniel A Pinedo
+description:
 
-show_downloads   : false;
-google_analytics : 
+show_downloads: false
+google_analytics: 
 
-social-links     : 
-  github.        : dapinedo
-  twitter        : daniel_a_pinedo
-  instagram      : daniel_a_pinedo
-  linkedin       : danielpinedo
+social-links: 
+  github: dapinedo
+  twitter: daniel_a_pinedo
+  instagram: daniel_a_pinedo
+  linkedin: danielpinedo
 
 gems:
   - jemoji
