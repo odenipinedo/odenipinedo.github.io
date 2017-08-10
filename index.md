@@ -22,6 +22,9 @@ layout: default
 * i have a graduate degree in i/o & clinical psychology from
 [Sofia University](http://www.sofia.edu/)
 
+* i have an undergraduate degree in yoga studies at 
+[Naropa University](http://www.naropa.edu/academics/bachelors/yoga/alumni-profiles.php)
+
 Octocat says, *"Thank you for visiting!! Please connect with me on __Twitter__ or __LinkedIn__"*  :octocat:
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
