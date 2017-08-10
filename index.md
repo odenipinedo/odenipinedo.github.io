@@ -10,7 +10,7 @@ layout: default
 * i am a buddhist:
 [Koyasan Betsuin Los Angeles](http://www.koyasanbetsuin.org/)
 
-* i am a founding member and chief strategist of VR startup 
+* i am a founding member and chief strategist of tech incubator 
 [Figments of Reality](http://figmentsofreality.io)
 
 * i teach college students at 
