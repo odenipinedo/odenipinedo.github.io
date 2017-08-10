@@ -22,7 +22,7 @@ layout: default
 * i have a graduate degree in i/o & clinical psychology from
 [Sofia University](http://www.sofia.edu/)
 
-* i have an undergraduate degree in yoga studies at 
+* i have an undergraduate degree in yoga studies from 
 [Naropa University](http://www.naropa.edu/academics/bachelors/yoga/alumni-profiles.php)
 
 Octocat says, *"Thank you for visiting!! Please connect with me on __Twitter__ or __LinkedIn__"*  :octocat:
