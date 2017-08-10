@@ -10,6 +10,9 @@ layout: default
 * i am a buddhist  
 [Koyasan Betsuin Los Angeles](http://www.koyasanbetsuin.org/)
 
+* i am a founding member and chief strategist of a VR startup
+[Figments of Reality](http://figmentsofreality.io)
+
 * i teach college students  
 [Mount Saint Mary's University](https://www.msmu.edu/)
 
