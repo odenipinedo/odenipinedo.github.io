@@ -2,7 +2,8 @@ theme: jekyll-theme-architect
 title: Daniel A Pinedo
 description:
 
-social_links  : 
+social-links  : 
+  github.     : dapinedo
   twitter     : daniel_a_pinedo
   instagram   : daniel_a_pinedo
   linkedin    : danielpinedo
