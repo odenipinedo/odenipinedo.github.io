@@ -4,6 +4,7 @@ layout: default
 ---
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <a class="github-button" href="https://github.com/dapinedo" data-size="large" aria-label="Follow me on GitHub">Follow me on Github</a>
+
 <a href="https://twitter.com/daniel_a_pinedo" class="twitter-follow-button" data-show-count="false">Follow me on Twitter</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### Some things about me
