@@ -7,6 +7,15 @@ layout: default
 
 <a href="https://twitter.com/daniel_a_pinedo" class="twitter-follow-button" data-show-count="false">Follow me on Twitter</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+### I am an advocate for the development amd advancement of women in science
+
+* [Scientista Foundation](http://www.scientistafoundation.com)
+
+* [Association for Women in Science](https://www.awis.org)
+
+* [Latinas in Stem](http://www.latinasinstem.com)
+
 ### Some things about me
 
 * i practice buddhism at 
