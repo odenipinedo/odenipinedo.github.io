@@ -8,7 +8,7 @@ layout: default
 <a href="https://twitter.com/daniel_a_pinedo" class="twitter-follow-button" data-show-count="false">Follow me on Twitter</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-### I am an advocate for the development amd advancement of women in science
+### I advocate for the training, development, and advancement of women in science
 
 * [Scientista Foundation](http://www.scientistafoundation.com)
 
