@@ -14,7 +14,7 @@ layout: default
 
 * [Association for Women in Science](https://www.awis.org)
 
-* [Latinas in Stem](http://www.latinasinstem.com)
+* [Latinas in STEM](http://www.latinasinstem.com)
 
 * [Society for the Advancement of Chicanos/Hispanics and Native Americans in Science](http://sacnas.org)
 
