@@ -16,7 +16,7 @@ layout: default
 
 * [Latinas in Stem](http://www.latinasinstem.com)
 
-* [Society for the Advancement of Chicanos and Native Americans in Science](http://sacnas.org)
+* [Society for the Advancement of Chicanos/Hispanics and Native Americans in Science](http://sacnas.org)
 
 ### Some things about me
 
