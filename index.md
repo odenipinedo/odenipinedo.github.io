@@ -16,6 +16,8 @@ layout: default
 
 * [Latinas in STEM](http://www.latinasinstem.com)
 
+* [Latinas in Tech](http://www.latinasintech.org)
+
 * [Society for the Advancement of Chicanos/Hispanics and Native Americans in Science](http://sacnas.org)
 
 * [United Negro College Fund](https://www.uncf.org)
