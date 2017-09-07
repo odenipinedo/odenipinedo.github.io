@@ -18,6 +18,8 @@ layout: default
 
 * [Society for the Advancement of Chicanos/Hispanics and Native Americans in Science](http://sacnas.org)
 
+* [United Negro College Fund](https://www.uncf.org)
+
 ### Some things about me
 
 * i practice buddhism at 
