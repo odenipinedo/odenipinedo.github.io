@@ -20,7 +20,7 @@ layout: default
 
 * [Society for the Advancement of Chicanos/Hispanics and Native Americans in Science](http://sacnas.org)
 
-* [United Negro College Fund](https://www.uncf.org)
+* [National Society of Black Engineers](http://www.nsbe.org/home.aspx)
 
 ### Some things about me
 
