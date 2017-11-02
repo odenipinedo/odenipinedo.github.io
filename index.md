@@ -16,10 +16,6 @@ layout: default
 
 * [Latinas in STEM](http://www.latinasinstem.com)
 
-* [Latinas in Tech](http://www.latinasintech.org)
-
-* [Society for the Advancement of Chicanos/Hispanics and Native Americans in Science](http://sacnas.org)
-
 * [National Society of Black Engineers](http://www.nsbe.org/home.aspx)
 
 ### Some things about me
@@ -33,10 +29,7 @@ layout: default
 * i teach college students at 
 [Mount Saint Mary's University](https://www.msmu.edu/)
 
-* i study for a M.S. in computer science at 
-[Cal State Dominguez Hills](http://csc.csudh.edu/)
-
-* i have a graduate degree in i/o & clinical psychology from
+* i have a graduate degree in clinical psychology from
 [Sofia University](http://www.sofia.edu/)
 
 * i have an undergraduate degree in yoga studies from 
