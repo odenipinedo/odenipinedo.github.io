@@ -19,7 +19,7 @@ layout: default
 
 * [National Society of Black Engineers](http://www.nsbe.org/home.aspx)
 
-### Facts about me
+#### About me
 
 * i practice buddhism at [Koyasan Betsuin Los Angeles](http://www.koyasanbetsuin.org/)
 
