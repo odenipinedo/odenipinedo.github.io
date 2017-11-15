@@ -20,17 +20,13 @@ layout: default
 
 ### Some things about me
 
-* i practice buddhism at 
-[Koyasan Betsuin Los Angeles](http://www.koyasanbetsuin.org/)
+* i practice buddhism at [Koyasan Betsuin Los Angeles](http://www.koyasanbetsuin.org/)
 
-* i teach undergraduate students at the all-women  
-[Mount Saint Mary's University](https://www.msmu.edu/)
+* i teach undergraduate students at the all-women [Mount Saint Mary's University](https://www.msmu.edu/)
 
-* i have a graduate degree in clinical psychology from
-[Sofia University](http://www.sofia.edu/)
+* i have a graduate degree in clinical psychology from [Sofia University](http://www.sofia.edu/)
 
-* i have an undergraduate degree in yoga studies from 
-[Naropa University](http://www.naropa.edu/academics/bachelors/yoga/alumni-profiles.php)
+* i have an undergraduate degree in yoga studies from [Naropa University](http://www.naropa.edu/academics/bachelors/yoga/alumni-profiles.php)
 
 :octocat: Octocat says, *"Thank you for visiting!!  
 Please connect with me on __GitHub__ and __Twitter__ above, and __LinkedIn__ below."*  :octocat:
