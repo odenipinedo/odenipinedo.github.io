@@ -7,8 +7,8 @@ layout: default
 
 <a href="https://twitter.com/daniel_a_pinedo" class="twitter-follow-button" data-show-count="false">Follow me on Twitter</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### I am a strong advocate for equitable compensation, training, and advancement of women in Management and STEM roles
-##### Some associations in support of the above include:
+#### I am a strong advocate for equitable compensation, training, and advancement of women in Management and STEM roles
+#### Some associations in support of the above include:
 * [Association for Psychological Science](https://www.psychologicalscience.org)
 
 * [Scientista Foundation](http://www.scientistafoundation.com)
@@ -19,7 +19,7 @@ layout: default
 
 * [National Society of Black Engineers](http://www.nsbe.org/home.aspx)
 
-### Some things about me
+### Facts about me
 
 * i practice buddhism at [Koyasan Betsuin Los Angeles](http://www.koyasanbetsuin.org/)
 
