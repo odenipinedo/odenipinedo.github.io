@@ -1,3 +1,4 @@
+
 ---
 title: hello! welcome to my page!
 layout: default
@@ -8,6 +9,7 @@ layout: default
 <a href="https://twitter.com/daniel_a_pinedo" class="twitter-follow-button" data-show-count="false">Follow me on Twitter</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### I am a strong advocate for equitable training, development, and advancement of women in Management and STEM roles
+##### Some associations in support of the above include:
 * [Association for Psychological Science](https://www.psychologicalscience.org)
 
 * [Scientista Foundation](http://www.scientistafoundation.com)
