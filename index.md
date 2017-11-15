@@ -1,5 +1,5 @@
 ---
-title: hello
+title: hello! welcome to my page!
 layout: default
 ---
 <script async defer src="https://buttons.github.io/buttons.js"></script>
@@ -7,8 +7,8 @@ layout: default
 
 <a href="https://twitter.com/daniel_a_pinedo" class="twitter-follow-button" data-show-count="false">Follow me on Twitter</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-### I advocate for equitable training, development, and advancement of women in science
+### I am a strong advocate for equitable training, development, and advancement of women in Management and STEM roles
+* [Association for Psychological Science](https://www.psychologicalscience.org)
 
 * [Scientista Foundation](http://www.scientistafoundation.com)
 
@@ -23,10 +23,7 @@ layout: default
 * i practice buddhism at 
 [Koyasan Betsuin Los Angeles](http://www.koyasanbetsuin.org/)
 
-* i am a founding member and chief strategist of tech incubator 
-[Figments of Reality](http://figmentsofreality.io)
-
-* i teach college students at 
+* i teach undergraduate students at the all-women  
 [Mount Saint Mary's University](https://www.msmu.edu/)
 
 * i have a graduate degree in clinical psychology from
