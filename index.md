@@ -20,7 +20,8 @@ layout: default
 
 * i have an undergraduate degree in yoga studies from [Naropa University](http://www.naropa.edu/academics/bachelors/yoga/alumni-profiles.php)
 
-:octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat:
+<br>
+:octocat:      :octocat:      :octocat:      :octocat:      :octocat:      :octocat:      :octocat:      :octocat:      :octocat:      :octocat:      :octocat:      :octocat:      :octocat:      :octocat:      :octocat:      :octocat:
 
 #### I am a strong advocate for equitable compensation, training, and advancement of women in Management and STEM roles
 #### Some associations in support of the above include:
