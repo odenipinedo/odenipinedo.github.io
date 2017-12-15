@@ -7,17 +7,11 @@ layout: default
 
 <a href="https://twitter.com/daniel_a_pinedo" class="twitter-follow-button" data-show-count="false">Follow me on Twitter</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-#### I am a strong advocate for equitable compensation, training, and advancement of women in Management and STEM roles
-#### Some associations in support of the above include:
-* [Association for Psychological Science](https://www.psychologicalscience.org)
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="danielpinedo"><a class="LI-simple-link" href='https://www.linkedin.com/in/danielpinedo?trk=profile-badge'>Daniel Pinedo</a></div>
 
-* [Scientista Foundation](http://www.scientistafoundation.com)
-
-* [Association for Women in Science](https://www.awis.org)
-
-* [Latinas in STEM](http://www.latinasinstem.com)
-
-* [National Society of Black Engineers](http://www.nsbe.org/home.aspx)
+:octocat: Octocat says, *"Thank you for visiting!!  
+Please connect with me on __GitHub__, __Twitter__, and __LinkedIn__ above."*  :octocat:
 
 #### About me
 
@@ -29,8 +23,15 @@ layout: default
 
 * i have an undergraduate degree in yoga studies from [Naropa University](http://www.naropa.edu/academics/bachelors/yoga/alumni-profiles.php)
 
-:octocat: Octocat says, *"Thank you for visiting!!  
-Please connect with me on __GitHub__ and __Twitter__ above, and __LinkedIn__ below."*  :octocat:
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="danielpinedo"><a class="LI-simple-link" href='https://www.linkedin.com/in/danielpinedo?trk=profile-badge'>Daniel Pinedo</a></div>
+#### I am a strong advocate for equitable compensation, training, and advancement of women in Management and STEM roles
+#### Some associations in support of the above include:
+* [Association for Psychological Science](https://www.psychologicalscience.org)
+
+* [Scientista Foundation](http://www.scientistafoundation.com)
+
+* [Association for Women in Science](https://www.awis.org)
+
+* [Latinas in STEM](http://www.latinasinstem.com)
+
+* [National Society of Black Engineers](http://www.nsbe.org/home.aspx)
