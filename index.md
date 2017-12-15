@@ -10,9 +10,6 @@ layout: default
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="danielpinedo"><a class="LI-simple-link" href='https://www.linkedin.com/in/danielpinedo?trk=profile-badge'>Daniel Pinedo</a></div>
 
-:octocat: Octocat says, *"Thank you for visiting!!  
-Please connect with me on __GitHub__, __Twitter__, and __LinkedIn__ above."*  :octocat:
-
 #### About me
 
 * i practice buddhism at [Koyasan Betsuin Los Angeles](http://www.koyasanbetsuin.org/)
@@ -23,6 +20,7 @@ Please connect with me on __GitHub__, __Twitter__, and __LinkedIn__ above."*  :
 
 * i have an undergraduate degree in yoga studies from [Naropa University](http://www.naropa.edu/academics/bachelors/yoga/alumni-profiles.php)
 
+:octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat: :octocat:
 
 #### I am a strong advocate for equitable compensation, training, and advancement of women in Management and STEM roles
 #### Some associations in support of the above include:
