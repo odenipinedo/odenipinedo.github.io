@@ -12,7 +12,7 @@ layout: default
 
 #### About me
 
-* i am a counselor, organizational psychologist, and full stack developer (C++, Python, Javascript, PHP, XHTML, SQL)
+* i am a counselor, organizational psychologist, and full stack developer (C++, Java, Python, Javascript, XHTML, SQL)
 
 * i teach undergraduate students at the historically all-women [Mount Saint Mary's University](https://www.msmu.edu/)
 
