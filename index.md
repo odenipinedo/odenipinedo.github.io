@@ -12,13 +12,16 @@ layout: default
 
 #### About me
 
-* i practice buddhism at [Koyasan Betsuin Los Angeles](http://www.koyasanbetsuin.org/)
-
-* i teach undergraduate students at the all-women [Mount Saint Mary's University](https://www.msmu.edu/)
+* i teach undergraduate students at the historically all-women [Mount Saint Mary's University](https://www.msmu.edu/)
 
 * i have a graduate degree in clinical psychology from [Sofia University](http://www.sofia.edu/)
 
 * i have an undergraduate degree in yoga studies from [Naropa University](http://www.naropa.edu/academics/bachelors/yoga/alumni-profiles.php)
+
+* i am affiliated with:
+     • ACM - Association for Computing Machinery 
+     • APS - Association for Psychological Science
+     • IEEE - Computer Society
 
 <br>
 :octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:
