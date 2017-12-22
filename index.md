@@ -12,11 +12,11 @@ layout: default
 
 #### About me
 
-* i am an academic and career counselor, organizational psychologist, and full stack developer (C++, Java, Python, Javascript, XHTML, SQL)
+* I am a university professor, organizational behaviorist, and full-stack developer (C++, Java, Python, Javascript, XHTML, SQL)
 
 * i teach undergraduate students at the historically all-women [Mount Saint Mary's University](https://www.msmu.edu/)
 
-* i have a graduate degree in clinical psychology from [Sofia University](http://www.sofia.edu/)
+* i have a graduate degree in psychology from [Sofia University](http://www.sofia.edu/)
 
 * i have an undergraduate degree in yoga studies from [Naropa University](http://www.naropa.edu/academics/bachelors/yoga/alumni-profiles.php)
 
@@ -24,6 +24,7 @@ layout: default
      * ACM - Association for Computing Machinery 
      * APS - Association for Psychological Science
      * IEEE - Computer Society
+     * IGDA - International Game Developers Association
 
 <br>
 :octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:
