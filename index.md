@@ -12,16 +12,15 @@ layout: default
 
 #### About me
 
-* I am a university professor, organizational behaviorist, and full-stack developer (C++, Java, Python, Javascript, XHTML, SQL)
+* I am an organizational behaviorist, herbalist, mycologist, and real life druid.
 
-* i teach undergraduate students at the historically all-women [Mount Saint Mary's University](https://www.msmu.edu/)
+* i teach undergraduate students at the historically all-female [Mount Saint Mary's University](https://www.msmu.edu/)
 
 * i have a graduate degree in psychology from [Sofia University](http://www.sofia.edu/)
 
 * i have an undergraduate degree in yoga studies from [Naropa University](http://www.naropa.edu/academics/bachelors/yoga/alumni-profiles.php)
 
 * i am affiliated with:
-     * ACM - Association for Computing Machinery 
      * APS - Association for Psychological Science
      * IEEE - Computer Society
      * IGDA - International Game Developers Association
