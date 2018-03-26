@@ -12,7 +12,7 @@ layout: default
 
 #### About me
 
-* I am an organizational behaviorist, herbalist, mycologist, and real life druid.
+* I am an organizational psychologist, herbalist, mycologist, and real life druid.
 
 * i teach undergraduate students at the historically all-female [Mount Saint Mary's University](https://www.msmu.edu/)
 
