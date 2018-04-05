@@ -10,19 +10,19 @@ layout: default
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="danielpinedo"><a class="LI-simple-link" href='https://www.linkedin.com/in/danielpinedo?trk=profile-badge'>Daniel Pinedo</a></div>
 
-#### About me
+#### Current ...
 
 * occupation: organizational strategist; research and statistics consultant; and C++, R, and Python enthusiast.
 
-* affiliation: Organizational Behavior & Evaluation, M.A. in Psychology Program at [Claremont Graduate University](https://www.cgu.edu/academics/program/organizational-behavior-evaluation/)
+* affiliation: Organizational Behavior & Evaluation, M.A. in Psychology at [Claremont Graduate University](https://www.cgu.edu/academics/program/organizational-behavior-evaluation/)
 
 * interests: fitness and nutrition promotion in the workplace, leadership, strategy, negotiation, influencing behavior change, crowdsourcing and AI in evaluation, data visualization, education gamification.
 
-* for fun: herbalism, mycology, CrossFit.
+* fun: herbalism, mycology, CrossFit.
 
-* i have a graduate degree in clinical psychology from [Sofia University](http://www.sofia.edu/)
+* graduate degree: PsyD(ABD) and MA in clinical psychology from [Sofia University](http://www.sofia.edu/)
 
-* i have an undergraduate degree in yoga studies from [Naropa University](http://www.naropa.edu/academics/bachelors/yoga/alumni-profiles.php)
+* undergraduate degree: BA in yoga studies from [Naropa University](http://www.naropa.edu/academics/bachelors/yoga/alumni-profiles.php)
 
 * associations:
      * APS - Association for Psychological Science
