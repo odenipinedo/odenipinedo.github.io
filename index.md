@@ -20,7 +20,7 @@ layout: default
 
 * fun: herbalism, mycology, CrossFit.
 
-* graduate degree: PsyD(ABD) and MA in clinical psychology from [Sofia University](http://www.sofia.edu/)
+* graduate degree: PsyD(a.b.d) and MA in clinical psychology from [Sofia University](http://www.sofia.edu/)
 
 * undergraduate degree: BA in yoga studies from [Naropa University](http://www.naropa.edu/academics/bachelors/yoga/alumni-profiles.php)
 
