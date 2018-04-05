@@ -12,7 +12,7 @@ layout: default
 
 #### Current ...
 
-* occupation: organizational strategist; research and statistics consultant; and C++, R, and Python enthusiast.
+* occupation: organizational consultant; applied research and statistics expert; and C++, R, and Python enthusiast.
 
 * affiliation: Organizational Behavior & Evaluation, M.A. in Psychology at [Claremont Graduate University](https://www.cgu.edu/academics/program/organizational-behavior-evaluation/)
 
