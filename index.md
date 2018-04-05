@@ -14,7 +14,7 @@ layout: default
 
 * occupation: organizational strategist; research and statistics consultant; and C++, R, and Python enthusiast.
 
-* affiliation: Organizational Behavior & Evaluation, M.A. in Psychology Program [Claremont Graduate University](https://www.cgu.edu/academics/program/organizational-behavior-evaluation/)
+* affiliation: Organizational Behavior & Evaluation, M.A. in Psychology Program at [Claremont Graduate University](https://www.cgu.edu/academics/program/organizational-behavior-evaluation/)
 
 * interests: fitness and nutrition promotion in the workplace, leadership, strategy, negotiation, influencing behavior change, crowdsourcing and AI in evaluation, data visualization, education gamification.
 
