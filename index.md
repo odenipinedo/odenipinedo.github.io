@@ -12,21 +12,25 @@ layout: default
 
 #### About me
 
-* I am an organizational psychologist, herbalist, mycologist, and real life druid.
+* occupation: organizational strategist; research and statistics consultant; and C++, R, and Python enthusiast.
 
-* i teach undergraduate students at the historically all-female [Mount Saint Mary's University](https://www.msmu.edu/)
+* affiliation: Organizational Behavior & Evaluation, M.A. in Psychology Program [Claremont Graduate University](https://www.cgu.edu/academics/program/organizational-behavior-evaluation/)
 
-* i have a graduate degree in psychology from [Sofia University](http://www.sofia.edu/)
+* interests: fitness and nutrition promotion in the workplace, leadership, strategy, negotiation, influencing behavior change, crowdsourcing and AI in evaluation, data visualization, education gamification.
+
+* for fun: herbalism, mycology, CrossFit.
+
+* i have a graduate degree in clinical psychology from [Sofia University](http://www.sofia.edu/)
 
 * i have an undergraduate degree in yoga studies from [Naropa University](http://www.naropa.edu/academics/bachelors/yoga/alumni-profiles.php)
 
-* i am affiliated with:
+* associations:
      * APS - Association for Psychological Science
      * IEEE - Computer Society
      * IGDA - International Game Developers Association
 
 <br>
-:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:
+:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:
 
 #### I am a strong advocate for equitable compensation, training, and advancement of women in Management and STEM roles
 #### Some associations in support of the above include:
