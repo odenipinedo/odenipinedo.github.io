@@ -1,5 +1,5 @@
 ---
-title: hello! welcome to my page!
+title: pinedo.org
 layout: default
 ---
 <script async defer src="https://buttons.github.io/buttons.js"></script>
