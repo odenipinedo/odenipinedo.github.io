@@ -31,3 +31,7 @@ layout: default
 
 <br>
 :octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:
+
+#### Sites ...
+
+* [RStudio, Shiny server](http://r.pinedo.org)
