@@ -14,9 +14,9 @@ layout: default
 
 * occupation: organizational consultant; applied research and statistics expert; and C++, R, and Python enthusiast.
 
-* affiliation: Organizational Behavior & Evaluation, M.A. in Psychology at [Claremont Graduate University](https://www.cgu.edu/academics/program/organizational-behavior-evaluation/)
+* affiliation: Organizational Behavior & Evaluation at [Claremont Graduate University](https://www.cgu.edu/academics/program/organizational-behavior-evaluation/)
 
-* interests: fitness and nutrition promotion in the workplace, leadership, strategy, negotiation, influencing behavior change, crowdsourcing and AI in evaluation, data visualization, education gamification.
+* interests: fitness and nutrition promotion in the workplace, leadership, strategy, negotiation, influencing behavior change, crowdsourcing & collective intelligence (AI assisted) in evaluation, data visualization, education gamification.
 
 * fun: herbalism, mycology, CrossFit.
 
@@ -26,8 +26,6 @@ layout: default
 
 * associations:
      * APS - Association for Psychological Science
-     * IEEE - Computer Society
-     * IGDA - International Game Developers Association
 
 <br>
 :octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:
