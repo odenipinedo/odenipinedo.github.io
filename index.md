@@ -17,7 +17,7 @@ I am an incoming student in Fall 2018 for the Organizational Behavior & Evaluati
 
 I am an experienced undergraduate, upper-division lecturer in subjects of quantitative & qualitative research methods; and, social & I/O psychology. I have prior educational and research experience in the fields of mindfulness, addictions recovery, and clinical psychology. I have work experience in consulting for local law enforcement, information technology administration and management, and EEG lab management.
 
-During my downtime, you will find me either at the local CrossFit box lifting heavy things, organizing my bullet journal, wildcrafting herbs and mushrooms, cooking, tango dancing, or just sitting in a jacuzzi and watching the stars. ;&nbsp;:octocat:
+During my downtime, you will find me either at the local CrossFit box lifting heavy things, organizing my bullet journal, wildcrafting herbs and mushrooms, cooking, tango dancing, or just sitting in a jacuzzi and watching the stars. &nbsp;:octocat:
 
 #### Site Map ...
 
