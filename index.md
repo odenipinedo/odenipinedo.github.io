@@ -12,7 +12,7 @@ layout: default
 
 #### Bio ...
 
-I am an incoming student in Fall 2018 for the Organizational Behavior & Evaluation program at CGU, looking for a position in Evaluation or Consulting. I am passionate about applied research, innovation, strategy, negotiation, and finance - especially in the fields of STEM education, biotechnology, massive public works projects, and international development.
+I am an incoming student in Fall 2018 for the Organizational Behavior & Evaluation program at Claremont Graduate University, looking for a position in Evaluation, Consulting, or Applied Research. I am passionate about applied research, innovation, strategy, negotiation, and finance - especially in the fields of STEM education, biotechnology, massive public works projects, and international development.
 
 I am an experienced undergraduate, upper-division lecturer in subjects of quantitative & qualitative research methods; and, social & I/O psychology. I have prior educational and research experience in the fields of mindfulness, addictions recovery, and clinical psychology. I have work experience in consulting for local law enforcement, information technology administration and management, and EEG lab management.
 
