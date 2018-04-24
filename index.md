@@ -19,8 +19,6 @@ I am an experienced undergraduate, upper-division lecturer in subjects of quanti
 
 During my downtime, you will find me either at the local CrossFit box lifting heavy things, organizing my bullet journal, wildcrafting herbs and mushrooms, cooking, tango dancing, or just sitting in a jacuzzi and watching the stars. ;&nbsp;:octocat:
 
-<br>
-
 #### Site Map ...
 
 * [RStudio, Shiny server](http://r.pinedo.org)
