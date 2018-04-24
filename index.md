@@ -16,7 +16,7 @@ layout: default
 
 * affiliation: Organizational Behavior & Evaluation at [Claremont Graduate University](https://www.cgu.edu/academics/program/organizational-behavior-evaluation/)
 
-* interests: fitness and nutrition promotion in the workplace, leadership, strategy, negotiation, influencing behavior change, crowdsourcing & collective intelligence (AI assisted) in evaluation, data visualization, education gamification.
+* interests: fitness and nutrition promotion in the workplace, strategy, finance, negotiation, influencing behavior change, crowdsourcing & collective intelligence (AI assisted) in evaluation, statistics, social network analysis, data visualization, innovation in bioscience.
 
 * fun: herbalism, mycology, CrossFit.
 
