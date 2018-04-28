@@ -1,1 +1,3 @@
-resume code will go here
+<object data="pinedo-resume.pdf" type="application/pdf" width="100%" height="100%">
+   <p><b>fallback content</b>: This browser does not support PDFs. Please download the PDF to view it: <a href="pinedo-resume.pdf">Download PDF</a>.</p>
+</object>
