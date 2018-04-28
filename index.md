@@ -1,7 +1,9 @@
 ---
-title: pinedo.org
+title: Home
 layout: default
 ---
+##[Home](/index)    [Resume](/resume)
+
 #### Social ...
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <a class="github-button" href="https://github.com/dapinedo" data-size="large" aria-label="Follow me on GitHub">Follow me on Github</a>
