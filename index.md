@@ -2,7 +2,8 @@
 title: Home
 layout: default
 ---
-##[Home](/index)    [Resume](/resume)
+[Home](/index) &nbsp;&nbsp;&nbsp [Resume](/resume) <br />
+:octocat:&nbsp;:octocat:&nbsp;:octocat:&nbsp;:octocat:&nbsp;:octocat:&nbsp;:octocat:&nbsp;:octocat:&nbsp;:octocat:&nbsp;:octocat:&nbsp;:octocat:&nbsp;:octocat:
 
 #### Social ...
 <script async defer src="https://buttons.github.io/buttons.js"></script>
