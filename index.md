@@ -13,11 +13,11 @@ layout: default
 
 #### Bio ...
 
-I am an incoming student in Fall 2018 for the Organizational Behavior & Evaluation program at Claremont Graduate University, looking for a position in Evaluation, Consulting, or Applied Research. I am passionate about applied research, innovation, strategy, negotiation, and finance - especially in the fields of STEM education, biotechnology, massive public works projects, and international development.
+I am an incoming student in Fall 2018 for the Organizational Behavior & Evaluation program at Claremont Graduate University. I am looking for a position in evaluation or consulting. I am passionate about applied research, innovation, strategy, negotiation, and finance - especially as these topics in combination pertain to STEM talent management, biotechnology, massive public works projects (e.g., universal basic income, Paris climate accords), philanthropic organizations, and international development.
 
-I am an experienced undergraduate, upper-division lecturer in subjects of quantitative & qualitative research methods; and, social & I/O psychology. I have prior educational and research experience in the fields of mindfulness, addictions recovery, and clinical psychology. I have work experience in consulting for local law enforcement, information technology administration and management, and EEG lab management.
+I am an experienced undergraduate, upper-division lecturer in subjects of quantitative & qualitative research methods, and social & I/O psychology. I have prior experience in the fields of mindfulness, addictions recovery, and clinical psychology. I have consulted on organizational development matters with local law enforcement, information technology firms, and university EEG labs.
 
-During my downtime, you will find me either at the local CrossFit box lifting heavy things, organizing my bullet journal, wildcrafting herbs and mushrooms, cooking, tango dancing, or just sitting in a jacuzzi and watching the stars. &nbsp;:octocat:
+During my downtime, you will find me either at the local CrossFit box fighting with gravity, organizing my bullet journal, wildcrafting herbs and mushrooms, cooking, tango dancing, or just sitting in a jacuzzi and watching the stars. &nbsp;:octocat:
 
 #### Site Map ...
 
