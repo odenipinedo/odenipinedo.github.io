@@ -2,7 +2,7 @@
 title: Résumé
 layout: default
 ---
-[Home](/index) &nbsp;&nbsp; [Resume](/resume) <br />
+[Home](/index) &nbsp;&nbsp; [Résumé](/resume) <br />
 &nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:
 
 <object data="pinedo-resume.pdf" type="application/pdf" width="100%" height="2200">
