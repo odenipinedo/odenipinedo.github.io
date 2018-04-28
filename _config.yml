@@ -1,6 +1,7 @@
 theme: jekyll-theme-cayman
 title: Daniel A Pinedo
 description: pinedo.org
+url: "https://pinedo.org"
 
 show_downloads: false
 google_analytics: 
@@ -11,6 +12,6 @@ social-links:
   instagram: daniel_a_pinedo
   linkedin: danielpinedo
 
-gems:
+plugins:
   - jemoji
   - jekyll-sitemap
