@@ -24,4 +24,4 @@ During my downtime, you will find me either at the local CrossFit box fighting w
 
 #### Sites
 
-* [RStudio, Shiny server](http://r.pinedo.org)
+* [RStudio, Shiny server](https://r.pinedo.org)
