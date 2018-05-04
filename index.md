@@ -17,11 +17,8 @@ I am an experienced undergraduate, upper-division lecturer in subjects of quanti
 During my downtime, you will find me either at the local CrossFit box fighting with gravity, organizing my bullet journal, wildcrafting herbs and mushrooms, cooking, tango dancing, or just sitting in a jacuzzi and watching the stars.
 
 #### Social
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-<a class="github-button" href="https://github.com/dapinedo" data-size="large" aria-label="Follow me on GitHub">Follow me on Github</a>
-
-<a href="https://twitter.com/daniel_a_pinedo" class="twitter-follow-button" data-show-count="false">Follow me on Twitter</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+[Github](https://github.com/dapinedo) &nbsp;&nbsp; [Instagram](https://www.instagram.com/daniel_a_pinedo) <br />
+&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:
 
 #### Sites
-
 * [RStudio, Shiny server](https://r.pinedo.org)
