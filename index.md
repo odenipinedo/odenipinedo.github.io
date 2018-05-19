@@ -9,12 +9,14 @@ sitemap:
 ---
 {% include head.md %}
 
+<div class = "wtf">
 {% for post in site.posts %}
-	{% if post.featured %}
-	  {% raw %} ####{% endraw %}{{ post.title | markdownify }} 
-    	{{ post.content | markdownify }}
+  {% if post.featured %}
+    {{ post.title | markdownify }} 
+    {{ post.content | markdownify }}
   {% endif %}
 {% endfor %}
+</div>
 
 
 
