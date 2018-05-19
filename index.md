@@ -22,15 +22,19 @@ sitemap:
       {{ post.title }} 
     </h4>
     <div class="post-categories">
+      <p>
       {% if post %}
         {% assign categories = post.categories %}
+        {% if post.categories.size > 1 %} categories: {% endif %}
+        {% if post.categories.size = 1 %} category: {% endif %}
       {% else %}
         {% assign categories = page.categories %}
       {% endif %}
       {% for category in categories %}
-        <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>,
-      {% unless forloop.last %}&nbsp;{% endunless %}
+        <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
+      {% unless forloop.last %},&nbsp;{% endunless %}
       {% endfor %}
+      </p>
      </div>
     {{ post.content | markdownify }}
   {% endif %}
