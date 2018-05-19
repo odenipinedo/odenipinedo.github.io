@@ -13,7 +13,7 @@ sitemap:
 <ul>
 {% for post in site.posts %}
 	{% if post.featured %}
-	  {{ ####post.title }}
+	  {% raw %} ####{{ post.title }} {% endraw %}
     	{{ post.content | markdownify }}
   {% endif %}
 {% endfor %}
