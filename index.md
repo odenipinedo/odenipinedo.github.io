@@ -20,10 +20,5 @@ sitemap:
 {% endfor %}
 </div>
 
-#### Social
-
-[Github](https://github.com/dapinedo) &nbsp;&nbsp; [Instagram](https://www.instagram.com/daniel_a_pinedo) <br />
-&nbsp;&nbsp;&nbsp;&nbsp;:octocat:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:octocat:
-
 #### Sites
 * [RStudio, Shiny server](https://r.pinedo.org)
