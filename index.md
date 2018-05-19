@@ -1,7 +1,11 @@
 ---
 title: Home
 layout: default
-sitemap: true
+sitemap:
+  priority: 0.7
+  changefreq: 'monthly'
+  lastmod: 2018-05-19
+  exclude: 'no'
 ---
 {% include head.md %}
 
