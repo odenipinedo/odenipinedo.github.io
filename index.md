@@ -18,6 +18,15 @@ sitemap:
 <div class = "featured-posts">
 {% for post in site.posts %}
   {% if post.featured %}
+    {% if post.categories.size > 0 %}
+      {% if post.categories.size = 1 %}Category: {% endif %}
+      {% if post.categories.size > 1 %}Categories: {% endif %}
+      {{ post.categories | sort | join: ", " }}
+    {% endif %}
+    {% if post.tags.size > 0 %}
+      Tag{% if post.tags.size > 1 %}s{% endif %}: 
+      {{ post.tags | sort | join: ", " }}
+    {% endif %}
     <h4>
       {{ post.title}} 
     </h4>
