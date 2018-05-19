@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: default
+sitemap: true
 ---
 {% include head.md %}
 
