@@ -39,5 +39,7 @@ sitemap:
 {% endfor %}
 </div>
 
-#### Sites
-* [RStudio, Shiny server](https://r.pinedo.org)
+<h4 align="center">Sites</h4>
+<ul align="center">
+  <li><a href='https://r.pinedo.org'>RStudio, Shiny server</a></li>
+</ul>
