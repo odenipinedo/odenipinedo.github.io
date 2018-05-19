@@ -14,9 +14,9 @@ sitemap:
 <div class = "featured-posts">
 {% for post in site.posts %}
   {% if post.featured %}
-    <h3 align="center">
+    <h2 align="center">
       {{ post.title }} 
-    </h3>
+    </h2>
     <div class="post-categories">
       <p align ="center">
       {% if post %}
@@ -32,7 +32,7 @@ sitemap:
       </p>
      </div>
      <p align="center">
-       <img class="emoji" title=":octocat:" alt=":octocat:" src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" height="40" width="40">
+       <img class="emoji" title=":octocat:" alt=":octocat:" src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" height="36" width="36">
      </p>
     {{ post.content | markdownify }}
   {% endif %}
