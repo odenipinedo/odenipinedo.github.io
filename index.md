@@ -25,7 +25,7 @@ sitemap:
       {% else %}
         {% assign categories = page.categories %}
       {% endif %}
-        Categories: 
+        categories:&nbsp;
       {% for category in categories %}
         <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
       {% unless forloop.last %},&nbsp;{% endunless %}
