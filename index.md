@@ -14,9 +14,9 @@ sitemap:
 <div class = "featured-posts">
 {% for post in site.posts %}
   {% if post.featured %}
-    <h4 align="center">
+    <h3 align="center">
       {{ post.title }} 
-    </h4>
+    </h3>
     <div class="post-categories">
       <p align ="center">
       {% if post %}
