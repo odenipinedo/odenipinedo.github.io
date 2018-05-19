@@ -22,8 +22,6 @@ sitemap:
       <p>
       {% if post %}
         {% assign categories = post.categories %}
-        {% if post.categories.size > 1 %} categories: {% endif %}
-        {% if post.categories.size = 1 %} category: {% endif %}
       {% else %}
         {% assign categories = page.categories %}
       {% endif %}
