@@ -9,12 +9,16 @@ sitemap:
 ---
 {% include head.md %}
 
+<ul>
 {% for post in site.posts %}
 	{% if post.featured %}
-		{{ post.title }} Put some Marker
+	<li>
+		##{{ post.title }}
+	</li>
     	{{ post.excerpt }}
   {% endif %}
 {% endfor %}
+</ul>
 
 #### About Me
 
