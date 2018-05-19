@@ -15,5 +15,4 @@ social-links:
 
 plugins:
   - jemoji
-  - jekyll-sitemap
   - jekyll-seo-tag
