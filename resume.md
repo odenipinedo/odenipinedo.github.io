@@ -1,7 +1,11 @@
 ---
 title: Résumé
 layout: default
-sitemap: true
+sitemap:
+  priority: 0.6
+  changefreq: 'monthly'
+  lastmod: 2018-05-15
+  exclude: 'no'
 ---
 {% include head.md %}
 
