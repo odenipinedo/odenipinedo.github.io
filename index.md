@@ -18,9 +18,7 @@ sitemap:
 <div class = "featured-posts">
 {% for post in site.posts %}
   {% if post.featured %}
-  <p>FUCK THIS 1</p>
     {% if post.categories.size > 0 %}
-  <p>FUCK THIS 2</p>
       {% if post.categories.size = 1 %}Category: {% endif %}
       {% if post.categories.size > 1 %}Categories: {% endif %}
       {{ post.categories | sort | join: ", " }}
@@ -30,7 +28,7 @@ sitemap:
       {{ post.tags | sort | join: ", " }}
     {% endif %}
     <h4>
-      {{ post.title}} 
+      {{ post.title }} 
     </h4>
     {{ post.content | markdownify }}
   {% endif %}
