@@ -12,8 +12,8 @@ sitemap:
 <ul>
 {% for post in site.posts %}
 	{% if post.featured %}
-		####{{ post.title }}
-    	{{ post.excerpt | markdownify }}
+		####{{ post.title | markdownify }}
+    	{{ post.excerpt | markdownify}}
   {% endif %}
 {% endfor %}
 </ul>
