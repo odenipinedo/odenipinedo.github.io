@@ -31,6 +31,9 @@ sitemap:
       {% endfor %}
       </p>
      </div>
+     <p align="center">
+       <img class="emoji" title=":octocat:" alt=":octocat:" src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" height="40" width="40">
+     </p>
     {{ post.content | markdownify }}
   {% endif %}
 {% endfor %}
