@@ -1,6 +1,7 @@
 ---
 title: Résumé
 layout: default
+sitemap: true
 ---
 {% include head.md %}
 
