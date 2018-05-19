@@ -9,16 +9,18 @@ sitemap:
 ---
 {% include head.md %}
 
-<div class = "wtf">
+<div class = "fatured-posts">
 {% for post in site.posts %}
   {% if post.featured %}
-    {{ post.title | markdownify }} 
+    <h4>
+      {{ post.title}} 
+    </h4>
+    <br />
     {{ post.content | markdownify }}
   {% endif %}
 {% endfor %}
+<br />
 </div>
-
-
 
 #### About Me
 
