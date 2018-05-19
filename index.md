@@ -9,6 +9,13 @@ sitemap:
 ---
 {% include head.md %}
 
+{% for post in site.posts %}
+	{% if post.featured %}
+		{{ post.title }} Put some Marker
+    	{{ post.excerpt }}
+  {% endif %}
+{% endfor %}
+
 #### About Me
 
 <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
