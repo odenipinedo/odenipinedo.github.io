@@ -19,15 +19,18 @@ sitemap:
       {{ post.title }} 
     </h4>
     <div class="post-categories">
+      <p>
       {% if post %}
         {% assign categories = post.categories %}
       {% else %}
         {% assign categories = page.categories %}
       {% endif %}
+        Categories: 
       {% for category in categories %}
         <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
       {% unless forloop.last %},&nbsp;{% endunless %}
       {% endfor %}
+      </p>
      </div>
     {{ post.content | markdownify }}
   {% endif %}
