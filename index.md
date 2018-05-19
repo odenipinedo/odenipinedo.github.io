@@ -9,14 +9,14 @@ sitemap:
 ---
 {% include head.md %}
 
-<ul>
+
 {% for post in site.posts %}
 	{% if post.featured %}
-	{{ <h4>post.title</h4> }}
+	<h4>{{ post.title }}</h4>
     	{{ post.content | markdownify }}
   {% endif %}
 {% endfor %}
-</ul>
+
 
 #### About Me
 
