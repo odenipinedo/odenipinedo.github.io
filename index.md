@@ -12,9 +12,7 @@ sitemap:
 <ul>
 {% for post in site.posts %}
 	{% if post.featured %}
-	<li>
-		##{{ post.title }}
-	</li>
+		####{{ post.title }}
     	{{ post.excerpt }}
   {% endif %}
 {% endfor %}
