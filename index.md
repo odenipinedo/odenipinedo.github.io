@@ -9,15 +9,13 @@ sitemap:
 ---
 {% include head.md %}
 
-
-<ul>
 {% for post in site.posts %}
 	{% if post.featured %}
 	  {% raw %} ####{% endraw %}{{ post.title | markdownify }} 
     	{{ post.content | markdownify }}
   {% endif %}
 {% endfor %}
-</ul>
+
 
 
 #### About Me
