@@ -32,14 +32,9 @@ sitemap:
       </p>
      </div>
      <p align="center">
-       <img class="emoji" title=":octocat:" alt=":octocat:" src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" height="36" width="36">
+       <img class="emoji" title=":octocat:" alt=":octocat:" src="https://assets-cdn.github.com/images/icons/emoji/octocat.png" height="32" width="32">
      </p>
     {{ post.content | markdownify }}
   {% endif %}
 {% endfor %}
 </div>
-
-<h4 align="center">Sites</h4>
-<p align="center">
-  <a align="center" href='https://r.pinedo.org'>RStudio, Shiny server</a>
-</p>
