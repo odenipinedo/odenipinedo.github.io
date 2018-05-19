@@ -22,7 +22,7 @@
     </section>
 
     <section class="main-content">
-      {% include head.md %}
+      {% include head.md | markdownify %}
       {{ content }}
 
       <footer class="site-footer">
