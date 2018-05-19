@@ -24,10 +24,11 @@ sitemap:
     <div class="post-categories">
       {% if post %}
         {% assign categories = post.categories %}
+        {% if post.categories.size > 1 %} Categories: {% endif %}
+        {% if post.categories.size = 1 %} Category: {% endif %}
       {% else %}
         {% assign categories = page.categories %}
       {% endif %}
-      <p>Categories: </p>
       {% for category in categories %}
         <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
       {% unless forloop.last %}&nbsp;{% endunless %}
