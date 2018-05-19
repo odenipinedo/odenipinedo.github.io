@@ -18,7 +18,9 @@ sitemap:
 <div class = "featured-posts">
 {% for post in site.posts %}
   {% if post.featured %}
+    FUCK THIS 1
     {% if post.categories.size > 0 %}
+      FUCK THIS 2
       {% if post.categories.size = 1 %}Category: {% endif %}
       {% if post.categories.size > 1 %}Categories: {% endif %}
       {{ post.categories | sort | join: ", " }}
