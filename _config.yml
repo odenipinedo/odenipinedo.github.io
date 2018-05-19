@@ -1,7 +1,8 @@
 theme: jekyll-theme-cayman
 title: Daniel A Pinedo
-description: Omnis ars naturae imitatio est | "All art imitates nature" | Seneca, Lucilius LXV, line 3
+description:
 url: "https://pinedo.org"
+author: Daniel A Pinedo
 
 show_downloads: false
 google_analytics: 
