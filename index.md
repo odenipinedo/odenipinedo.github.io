@@ -41,5 +41,5 @@ sitemap:
 
 <h4 align="center">Sites</h4>
 <ul align="center">
-  <li><a href='https://r.pinedo.org'>RStudio, Shiny server</a></li>
+  <li align="center"><a href='https://r.pinedo.org'>RStudio, Shiny server</a></li>
 </ul>
