@@ -32,7 +32,7 @@ sitemap:
       </p>
      </div>
      <p align="center">
-       <img class="emoji" title=":octocat:" alt=":octocat:" src="https://octodex.github.com/images/dojocat.jpg" height="36" width="36">
+       <img class="emoji" title=":octocat:" alt=":octocat:" src="https://octodex.github.com/images/dojocat.jpg" height="40" width="40">
      </p>
     {{ post.content | markdownify }}
   {% endif %}
