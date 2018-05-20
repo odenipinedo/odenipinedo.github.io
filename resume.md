@@ -8,6 +8,10 @@ sitemap:
   exclude: 'no'
 ---
 
+<p align="center">
+       <img class="emoji" title=":octocat:" alt=":octocat:" src="https://octodex.github.com/images/dojocat.jpg" height="108" width="108">
+     </p>
+
 <object data="/pinedo-resume20180515.pdf" type="application/pdf" width="100%" height="2200">
    <p><b>fallback content</b>: This browser does not support PDFs. Please <a href="/pinedo-resume20180515.pdf">download PDF</a> to view it.</p>
 </object>
