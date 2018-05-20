@@ -16,3 +16,7 @@ I am an incoming student for Fall 2018 in the Organizational Behavior & Evaluati
 I am an experienced undergraduate, upper-division lecturer in subjects of quantitative & qualitative research methods; and, social, industrial/organizational, and positive psychology. In addition, I have prior work and research experience in the fields of mindfulness, addictions recovery, positive and clinical psychology. I have consulted on organizational development matters with local law enforcement, internet companies, and university electrophysiology labs.
 
 During my downtime, you will find me either at the local CrossFit box fighting with gravity, organizing my bullet journal, making potions with wild herbs and mushrooms, cooking, using my drinking horn, tango dancing, or just sitting in a jacuzzi and watching the stars.
+
+<p align="center">
+       <img src="/assets/image/2018-05-17-introduction.png" height="195" width="480">
+</p>
