@@ -18,5 +18,5 @@ I am an experienced undergraduate, upper-division lecturer in subjects of quanti
 During my downtime, you will find me either at the local CrossFit box fighting with gravity, organizing my bullet journal, making potions with wild herbs and mushrooms, cooking, using my drinking horn, tango dancing, or just sitting in a jacuzzi and watching the stars.
 
 <p align="center">
-       <img src="/assets/image/2018-05-17-introduction-1.png" height="195" width="480">
+       <img src="/assets/image/2018-05-17-introduction-2.png" height="195" width="480">
 </p>
