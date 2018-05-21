@@ -3,32 +3,6 @@
     <i class="fas fa-home fa-lg"></i>
     Home
   </a>
-  
-  <script type="text/javascript" language="javascript">
-    <!--
-    // Email obfuscator script 2.1 by Tim Williams, University of Arizona
-    // Random encryption key feature coded by Andrew Moulden
-    // This code is freeware provided these four comment lines remain intact
-    // A wizard to generate this code is at http://www.jottings.com/obfuscator/
-    { coded = "PTNpmO@gpNmPf.fov"
-      key = "36N9Jxc2sriZPlRYbtkaHQEA0uopzhOwIBC4T7De5KLfgj8nSyFXW1qUmdVGMv"
-      shift=coded.length
-      link=""
-      for (i=0; i<coded.length; i++) {
-        if (key.indexOf(coded.charAt(i))==-1) {
-         ltr = coded.charAt(i)
-         link += (ltr)
-        }
-        else {     
-          ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
-          link += (key.charAt(ltr))
-        }
-      }
-    document.write("<a href='mailto:"+link+"'>contact me</a>")
-    }
-    //-->
-    </script><noscript>Sorry, you need Javascript enabled to email me.</noscript>
-
   <a href="/resume" class="btn">
     <i class="fas fa-paperclip fa-lg"></i>
     Résumé
