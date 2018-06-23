@@ -11,11 +11,11 @@ sitemap:
   exclude: 'no'
 ---
 
-I am an incoming student for Fall 2018 in the Organizational Behavior & Evaluation program at Claremont Graduate University. I am passionate about applied research, organizational development, innovation, strategy, negotiation, and finance - especially as these topics in combination pertain to STEM talent management, biotechnology, massive public works projects (e.g., universal basic income, Paris climate accords), philanthropic organizations, and international development.
+Daniel is a first-year student in the Organizational Behavior & Evaluation program at Claremont Graduate University. He is passionate about STEM talent management, biotechnology & biopharmacology innovation, the United Nations, and philanthropic organizations that engage the issues of climate change and women's rights.
 
-I am an experienced undergraduate, upper-division lecturer in subjects of quantitative & qualitative research methods; and, social, industrial/organizational, and positive psychology. In addition, I have prior work and research experience in the fields of mindfulness, addictions recovery, positive and clinical psychology. I have consulted on organizational development matters with local law enforcement, internet companies, and university electrophysiology labs.
+He is an experienced undergraduate, upper-division lecturer in quantitative & qualitative research methods in the social sciences. Daniel has taught and/or developed coursework in social, industrial/organizational, and positive psychology. He has over a decade of experience in the fields of mindfulness, addictions recovery, positive and clinical psychology. Daniel has recently consulted on organizational development matters with local law enforcement, internet backbone companies, and university electrophysiology labs.
 
-During my downtime, you will find me either at the local CrossFit box fighting with gravity, organizing my bullet journal, making potions with wild herbs and mushrooms, cooking, using my drinking horn, tango dancing, or just sitting in a jacuzzi and watching the stars.
+During his downtime, you will find Daniel at the Crossfit box wrestling with gravity, learning tango and bachata, or trying out a new healthy high-protein meal-plan recipe. However, his all-time favorite pastimes are teaching his 7-year-old son to swim, cook, and rake leaves.
 
 <p align="center">
        <img src="/assets/image/2018-05-17-introduction-2.png" height="195" width="480">
