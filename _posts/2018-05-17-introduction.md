@@ -18,5 +18,5 @@ He is an experienced undergraduate, upper-division lecturer in quantitative & qu
 During his downtime, you will find Daniel at the Crossfit box wrestling with gravity, learning tango and bachata, or trying out a new healthy high-protein meal-plan recipe. However, his all-time favorite pastimes are teaching his 7-year-old son to swim, cook, and rake leaves.
 
 <p align="center">
-       <img src="/assets/image/2018-05-17-introduction-4.svg" height="480" width="640">
+       <img src="/assets/image/2018-05-17-introduction-4.svg" height="960" width="1280">
 </p>
