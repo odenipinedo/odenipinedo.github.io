@@ -11,7 +11,7 @@ sitemap:
   exclude: 'no'
 ---
 
-Daniel is a student in the Organizational Behavior & Evaluation program at Claremont Graduate University. He is passionate about biopharm/biotech startups; diversity, equity, and inclusion in STEM; and initiatives that engage the critical issue of sexual harassment and toxic culture in STEM.
+Daniel is a student in the Organizational Behavior & Evaluation program at Claremont Graduate University. He is passionate about biopharm/biotech startups; diversity, equity, and inclusion in STEM; and initiatives that engage the critical issues of sexual harassment and toxic culture in STEM.
 
 He is an experienced undergraduate, upper-division lecturer in quantitative & qualitative research methods in the social sciences. Daniel has taught and/or developed coursework in social, industrial/organizational, and positive psychology. He has over a decade of experience in the fields of mindfulness, addictions recovery, and positive and clinical psychology. Daniel has recently consulted on organizational development matters with local law enforcement, internet backbone companies, and university electrophysiology labs.
 
