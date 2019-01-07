@@ -4,7 +4,7 @@ layout: default
 sitemap:
   priority: 0.6
   changefreq: 'monthly'
-  lastmod: 2019-01-03
+  lastmod: 2019-01-06
   exclude: 'no'
 ---
 
