@@ -7,8 +7,8 @@ featured: true
 sitemap:
   priority: 0.5
   changefreq: 'monthly'
-  lastmod: 2019-01-14
+  lastmod: 2019-02-03
   exclude: 'no'
 ---
-Daniel is an HR Strategist and Researcher. He is passionate about sustaining inclusive workplaces that are harmonious (high psychological safety), balanced (high equity), and innovative (creatively successful) with higher levels of overall firm absorptive capacity (research & development and acquisitions of intellectual capital). You may find Daniel wandering around identifying plants and fungi with his son, having art and cooking parties with his partner Carolyn, or staring out the window at nothing in particular.
+Evidence-based Human Resource strategist specialized in management of organization-level change and research & development. Passionate about sustaining inclusive work places that are harmonious, balanced, and creative - leading to enhanced levels of research & development utilization and mergers & acquisitions integration. Strong background leading highly diverse and innovative research and technical teams. Mentoring expert with professional clinical training in team process and individual coaching. 
 <a class="twitter-timeline" href="https://twitter.com/TheOrgArtist?ref_src=twsrc%5Etfw">Tweets by TheOrgArtist</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
