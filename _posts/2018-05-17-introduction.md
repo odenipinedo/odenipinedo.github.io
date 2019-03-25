@@ -7,7 +7,7 @@ featured: true
 sitemap:
   priority: 0.5
   changefreq: 'monthly'
-  lastmod: 2019-03-07
+  lastmod: 2019-03-25
   exclude: 'no'
 ---
 Management strategist specialized in inclusion within the global workforce, human capital strategy, and operations of machine assisted cognition and decision-making.
