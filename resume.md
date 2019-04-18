@@ -12,6 +12,6 @@ sitemap:
        <img class="emoji" title=":octocat:" alt=":octocat:" src="https://octodex.github.com/images/octocat-de-los-muertos.jpg" height="108" width="108">
      </p>
 
-<object data="/assets/pdf/pinedo-resume20190325d.pdf" type="application/pdf" width="100%" height="3500">
-   <p><b>fallback content</b>: This browser does not support PDFs. Please <a href="/assets/pdf/pinedo-resume20190325d.pdf">download PDF</a> to view it.</p>
+<object data="/assets/pdf/pinedo-resume20190417.pdf" type="application/pdf" width="100%" height="3500">
+   <p><b>fallback content</b>: This browser does not support PDFs. Please <a href="/assets/pdf/pinedo-resume20190417.pdf">download PDF</a> to view it.</p>
 </object>
