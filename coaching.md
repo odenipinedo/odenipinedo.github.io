@@ -12,16 +12,13 @@ sitemap:
        <img class="emoji" title=":octocat:" alt=":octocat:" src="https://octodex.github.com/images/agendacat.png" height="108" width="108">
      </p>
  
-FK
+BOO
 {% for post in site.posts %}
   {% if post.categories contains 'coaching' %}
-  <li>{{ post.title }}</li>
-  {% endif %}
-  <article>
     <h2 align = "center">
         {{ post.title }}
     </h2>
     {{ post.content }}
-  </article>
+  {% endif %}
 {% endfor %}
-UC
+YISH
