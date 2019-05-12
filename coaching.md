@@ -15,10 +15,12 @@ sitemap:
 BOO
 {% for post in site.posts %}
   {% if post.categories contains 'coaching' %}
+  <article>
     <h2 align = "center">
         {{ post.title }}
     </h2>
     {{ post.content }}
+  </article>
   {% endif %}
 {% endfor %}
 YISH
