@@ -28,9 +28,5 @@ sitemap:
       {% endfor %}
       </p>
      </div>
-
-<p align="center">
-       <img class="emoji" title=":octocat:" alt=":octocat:" src="https://octodex.github.com/images/agendacat.png" height="108" width="108">
-     </p>
      
 
