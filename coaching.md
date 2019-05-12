@@ -18,8 +18,10 @@ sitemap:
     <h2 align = "center">
         {{ post.title }}
     </h2>
-    category:
-    <a href="{{site.baseurl}}/categories/#coaching">coaching</a>
+    <p align = "center"
+      category:
+      <a href="{{site.baseurl}}/categories/#coaching">coaching</a>
+    </p>
     {{ post.content }}
   </article>
   {% endif %}
