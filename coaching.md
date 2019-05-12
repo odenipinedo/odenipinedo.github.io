@@ -12,7 +12,7 @@ sitemap:
        <img class="emoji" title=":octocat:" alt=":octocat:" src="https://octodex.github.com/images/agendacat.png" height="108" width="108">
      </p>
    
-{% for post in site.categories.coaching %}
+{% for category in site.categories.coaching %}
   <article>
     <h2>
       <a href="{{ post.url }}">
