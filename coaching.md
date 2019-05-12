@@ -18,7 +18,7 @@ sitemap:
     <h2 align = "center">
         {{ post.title }}
     </h2>
-    <p align = "center"
+    <p align = "center">
       category:
       <a href="{{site.baseurl}}/categories/#coaching">coaching</a>
     </p>
