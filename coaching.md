@@ -24,5 +24,6 @@ sitemap:
     </p>
     {{ post.content }}
   </article>
+  {{ post.content | markdownify }}
   {% endif %}
 {% endfor %}
