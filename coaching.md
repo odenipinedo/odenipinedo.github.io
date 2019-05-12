@@ -11,7 +11,7 @@ sitemap:
 <p align="center">
        <img class="emoji" title=":octocat:" alt=":octocat:" src="https://octodex.github.com/images/agendacat.png" height="108" width="108">
      </p>
-     
+FU    
 <ul class="entries">
   {% for post in paginator.posts %}
   <li>
@@ -23,5 +23,5 @@ sitemap:
   </li>
   {% endfor %}
 </ul>
-     
+CK    
 
