@@ -11,3 +11,7 @@ sitemap:
 <p align="center">
        <img class="emoji" title=":octocat:" alt=":octocat:" src="https://octodex.github.com/images/agendacat.png" height="108" width="108">
      </p>
+     
+{% for post in site.categories.coaching %}
+    # all post with category "coaching"
+{% endfor %}
