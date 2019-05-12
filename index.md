@@ -8,6 +8,10 @@ sitemap:
   exclude: 'no'
 ---
 
+<p align="center">
+       <img class="emoji" title=":octocat:" alt=":octocat:" src="https://octodex.github.com/images/dojocat.jpg" height="108" width="108">
+     </p>
+
 <div class = "featured-posts">
 {% for post in site.posts reversed %}
   {% if post.featured %}
