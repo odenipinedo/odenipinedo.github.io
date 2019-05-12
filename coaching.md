@@ -17,6 +17,7 @@ sitemap:
   <article>
     <h2 align = "center">
         {{ post.title }}
+        <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
     </h2>
     {{ post.content }}
   </article>
