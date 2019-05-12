@@ -16,23 +16,8 @@ sitemap:
   <article>
     <h2 align="center">
       {{ post.title }} 
-    <div class="post-categories">
-      <p align ="center">
-      {% if post %}
-        {% assign categories = post.categories %}
-      {% else %}
-        {% assign categories = page.categories %}
-      {% endif %}
-      {% if categories.size == 1 %}category:&nbsp;{% else %}categories:&nbsp;{% endif %}
-      {% for category in categories %}
-        <a href="{{site.baseurl}}/categories/#{{category|slugize}}">{{category}}</a>
-      {% unless forloop.last %},&nbsp;{% endunless %}
-      <a href="{{ post.url }}">
-        {{ post.title }}
-      </a>
-    </h2>
-    <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
-    {{ post.content }}
+      {{ post.content }}
+     </h2>
   </article>
 {% endfor %}
    
