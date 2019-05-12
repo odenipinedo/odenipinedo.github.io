@@ -17,13 +17,6 @@ FK
   {% if post.categories contains 'coaching' %}
   <li>{{ post.title }}</li>
   {% endif %}
-{% endfor %}
-{% for post in site.posts %}
-  {% if post.categories contains 'Foo' %}
-  <li>{{ post.title }}</li>
-  {% endif %}
-{% endfor %}
-{% for post in posts %}
   <article>
     <h2 align = "center">
         {{ post.title }}
