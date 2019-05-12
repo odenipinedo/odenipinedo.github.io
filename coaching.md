@@ -13,7 +13,7 @@ sitemap:
      </p>
  
 FU
-{% for cat in site.categories.coaching %}
+{% for post in posts %}
   <article>
     <h2 align = "center">
         {{ post.title }}
