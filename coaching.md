@@ -12,11 +12,16 @@ sitemap:
        <img class="emoji" title=":octocat:" alt=":octocat:" src="https://octodex.github.com/images/agendacat.png" height="108" width="108">
      </p>
      
-{% for site.categories.coaching in site.posts %}
-  <a href="{{ post.url }}">
-    <h2>{{ post.title }}</h2>
-    <p>{{ post.date | date_to_string }}</p>
-  </a>
-{% endfor %}
+<ul class="entries">
+  {% for post in paginator.posts %}
+  <li>
+    <a href="{{ post.url }}">
+    <h3>{{ post.title }}</h3>
+    <p class="blogdate">{{ post.date | date: "%d %B %Y" }}</p>
+    <div>{{ post.content |truncatehtml | truncatewords: 60 }}</div>
+    </a>
+  </li>
+  {% endfor %}
+</ul>
      
 
