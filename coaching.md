@@ -22,8 +22,7 @@ sitemap:
       category:
       <a href="{{site.baseurl}}/categories/#coaching">coaching</a>
     </p>
-    {{ post.content }}
+    {{ post.content | markdownify }}
   </article>
-  {{ post.content | markdownify }}
   {% endif %}
 {% endfor %}
