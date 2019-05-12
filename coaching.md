@@ -11,7 +11,8 @@ sitemap:
 <p align="center">
        <img class="emoji" title=":octocat:" alt=":octocat:" src="https://octodex.github.com/images/agendacat.png" height="108" width="108">
      </p>
-   
+ 
+FU
 {% for cat in site.categories.coaching %}
   <article>
     <h2 align = "center">
@@ -20,4 +21,4 @@ sitemap:
     {{ post.content }}
   </article>
 {% endfor %}
-
+CK
