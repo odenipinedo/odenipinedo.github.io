@@ -11,7 +11,18 @@ sitemap:
 <p align="center">
        <img class="emoji" title=":octocat:" alt=":octocat:" src="https://octodex.github.com/images/octocat-de-los-muertos.jpg" height="108" width="108">
      </p>
-
-<object data="/assets/pdf/pinedo-resume20190428.pdf" type="application/pdf" width="100%" height="3500">
-   <p><b>fallback content</b>: This browser does not support PDFs. Please <a href="/assets/pdf/pinedo-resume20190428.pdf">download PDF</a> to view it.</p>
-</object>
+     
+{% for post in site.posts %}
+  {% if post.categories contains 'resume' %}
+  <article>
+    <h2 align = "center">
+        {{ post.title }}
+    </h2>
+    <p align = "center">
+      category:
+      <a href="{{site.baseurl}}/categories/#coaching">coaching</a>
+    </p>
+    {{ post.content | markdownify }}
+  </article>
+  {% endif %}
+{% endfor %}
