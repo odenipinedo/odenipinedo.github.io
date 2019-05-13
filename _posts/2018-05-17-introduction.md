@@ -13,6 +13,9 @@ sitemap:
 
 <p align="center">
   <img src="https://pinedo.org/assets/png/dpinedo_photo.png" height="216" width="216">
+</p>
+<p align="center">
 Daniel is a management strategist specialized in inclusion within the global workforce, human capital strategy, and entrepreneurship related to machine assisted cognition and decision-making.
 </p>
+
 <a class="twitter-timeline" href="https://twitter.com/pinedo_dot_org?ref_src=twsrc%5Etfw">Tweets by Daniel Pinedo</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
