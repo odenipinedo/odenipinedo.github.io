@@ -2,7 +2,7 @@
 layout: post
 title:  "Introduction"
 date:   2018-05-17 18:00:00 -0700
-categories: [about me]
+categories: [about]
 featured: true
 sitemap:
   priority: 0.5
