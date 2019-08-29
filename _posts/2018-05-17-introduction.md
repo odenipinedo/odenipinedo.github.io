@@ -14,6 +14,7 @@ sitemap:
 <p align="center">
   <img src="https://pinedo.org/assets/png/dpinedo_photo.png" height="216" width="216">
 </p>
+
 <p align="center">
 Daniel is a people operations strategist. Being of mixed Native Mexican and European ancestry and the son of an immigrant parent, his main interest is inclusion in the global workforce and studying and measuring the strategic advantages of having a diverse workplace.
 <br><br>
