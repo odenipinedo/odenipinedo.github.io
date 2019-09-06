@@ -7,7 +7,7 @@ featured: true
 sitemap:
   priority: 0.5
   changefreq: 'monthly'
-  lastmod: 2019-08-28
+  lastmod: 2019-09-06
   exclude: 'no'
 ---
 
