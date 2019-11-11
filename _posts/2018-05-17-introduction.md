@@ -16,7 +16,7 @@ sitemap:
 </p>
 
 <p align="center">
-Daniel is entering the Strategic HR field with over a decade of prior experience in consulting, management, university teaching, and IT roles. His primary expertise is in forming, leading, and developing cross-disciplinary teams of specialists in order to complete mission-critical and time-sensitive human capital projects. An example area of focus is how inclusive workplaces spark innovation and intrapreneurship in firms.
+Daniel is entering the Strategic HR field with over a decade of prior experience in consulting, management, university teaching, and IT roles. His primary expertise is in forming, leading, and developing cross-disciplinary teams of specialists in order to complete mission-critical and time-sensitive human capital projects. An example area of focus is studying how inclusive workplaces spark innovation and intrapreneurship in firms.
 <br><br>
 His vision is to leverage an increased strategic role of human resources in organizations with the goal of connecting financial strategy with global recruitment and talent management in the United States and global markets.
 <br><br>
