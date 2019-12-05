@@ -7,7 +7,7 @@ featured: true
 sitemap:
   priority: 0.5
   changefreq: 'monthly'
-  lastmod: 2019-11-11
+  lastmod: 2019-12-04
   exclude: 'no'
 ---
 
@@ -23,4 +23,4 @@ His vision is to leverage an increased strategic role of human capital in organi
 Daniel finds joy in facilitating growth and development in employees as a trained and experienced executive and mindfulness coach.
 </p>
 
-<a class="twitter-timeline" href="https://twitter.com/pinedo_dot_org?ref_src=twsrc%5Etfw">Tweets by Daniel Pinedo</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/p1n3d0?ref_src=twsrc%5Etfw">Tweets by Daniel Pinedo</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
