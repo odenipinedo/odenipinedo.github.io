@@ -7,7 +7,7 @@ featured: true
 sitemap:
   priority: 0.5
   changefreq: 'monthly'
-  lastmod: 2019-12-31
+  lastmod: 2020-01-01
   exclude: 'no'
 ---
 
@@ -16,9 +16,9 @@ sitemap:
 </p>
 
 <p align="center">
-Daniel has over a decade of prior experience in consulting, management, university teaching, and IT roles. His primary expertise is in forming, leading, and developing cross-disciplinary teams of specialists in order to complete mission-critical and time-sensitive human capital projects. An example area of focus is studying how inclusive workplaces spark innovation and intrapreneurship in firms.
+Do you need to tell a compelling, evidence-based story? What if your story needs to be based on strong technical knowledge and transmitted so anyone could understand its implications and then apply it?
 <br><br>
-His vision is to leverage an increased strategic role of human capital in organizations with the goal of connecting financial strategy with new ways of working using evidenced-based advanced analytics and machine learning methodologies.
+This is what I do well and love doing. My recent experiences focus on telling a technical story and informing or creating immediately actionable human capital strategies aligned for the future of work.
 <br><br>
-Daniel finds joy in facilitating growth and development in employees as a trained and experienced executive and mindfulness coach.
+I understand the sciences of analytics and human capital at deep levels. I use this decades-long understanding with financial and management acumen to drive strategy. I tell the compelling trustworthy story that informs decisions so the firm and its people thrive.
 </p>
