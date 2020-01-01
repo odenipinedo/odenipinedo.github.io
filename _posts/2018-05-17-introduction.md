@@ -20,5 +20,5 @@ Do you need to tell a compelling, evidence-based story? What if your story needs
 <br><br>
 This is what I do well and love doing. My recent experiences focus on telling a technical story and informing or creating immediately actionable human capital strategies aligned for the future of work.
 <br><br>
-I understand the sciences of analytics and human capital at deep levels. I use this decades-long understanding with financial and management acumen to drive strategy. I tell the compelling trustworthy story that informs decisions so the firm and its people thrive.
+I understand the sciences of analytics and human capital at deep levels. I use this decades-long knowledge with financial and management acumen to drive strategy. I tell the compelling trustworthy story that informs decisions so the firm and its people thrive.
 </p>
