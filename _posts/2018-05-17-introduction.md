@@ -20,5 +20,5 @@ Hello, I am Daniel.
 <br><br>
 I specialize in workforce strategy, planning, and analytics. I have the requisite experience and education in management, consulting, finance, economics, organizational behavior, and statistics.
 <br><br>
-Let's connect. See links to my résumé and portfolio above. You may reach me on all social media channels @odenipinedo, or if you prefer, my e-mail link is below.
+Let's connect. See links to my résumé and portfolio above. You may reach me on all social media channels <b>@odenipinedo</b>, or if you prefer, my e-mail link is below.
 </p>
