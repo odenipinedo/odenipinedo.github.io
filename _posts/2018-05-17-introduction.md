@@ -16,7 +16,7 @@ sitemap:
 </p>
 
 <p align="center">
-Motto: Take what works and enhance it.
+"Take what works and enhance it."
 <br><br>
 I specialize in workforce strategy, planning, and analytics. I have the requisite experience and education in management, consulting, finance, economics, organizational behavior, and statistics.
 <br><br>
