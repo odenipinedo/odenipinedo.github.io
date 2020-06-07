@@ -16,7 +16,7 @@ sitemap:
 </p>
 
 <p align="center">
-Hello, I am Daniel.
+Motto: Take what works, leave the rest, be resolute.
 <br><br>
 I specialize in workforce strategy, planning, and analytics. I have the requisite experience and education in management, consulting, finance, economics, organizational behavior, and statistics.
 <br><br>
