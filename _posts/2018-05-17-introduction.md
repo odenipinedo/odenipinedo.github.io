@@ -7,7 +7,7 @@ featured: true
 sitemap:
   priority: 0.5
   changefreq: 'monthly'
-  lastmod: 2020-04-30
+  lastmod: 2020-06-07
   exclude: 'no'
 ---
 
@@ -16,7 +16,7 @@ sitemap:
 </p>
 
 <p align="center">
-Motto: Take what works, leave the rest, be resolute.
+Motto: Take what works and enhance it.
 <br><br>
 I specialize in workforce strategy, planning, and analytics. I have the requisite experience and education in management, consulting, finance, economics, organizational behavior, and statistics.
 <br><br>
