@@ -16,7 +16,7 @@ sitemap:
 </p>
 
 <p align="center">
-I specialize in organization strategy: analytics, design, & planning. I have the requisite experience and education in management, consulting, finance, economics, organizational behavior, statistics, and machine learning.
+I specialize in organization strategy: analytics, design, & planning. I have the requisite experience and education in management, consulting, finance, economics, organizational behavior, frequentist & Bayesian statistics, and machine learning.
 <br><br>
 Let's connect. See links to my résumé and portfolio above. You may reach me on all social media channels <span style="font-weight:bold">@odenipinedo</span>, or if you prefer, my email link is also included below.
 </p>
