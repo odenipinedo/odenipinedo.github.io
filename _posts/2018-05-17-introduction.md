@@ -7,7 +7,7 @@ featured: true
 sitemap:
   priority: 0.5
   changefreq: 'monthly'
-  lastmod: 2020-06-30
+  lastmod: 2020-08-10
   exclude: 'no'
 ---
 
@@ -16,9 +16,7 @@ sitemap:
 </p>
 
 <p align="center">
-"Take what works and enhance it."
-<br><br>
-I specialize in workforce strategy: analytics, design, & planning. I have the requisite experience and education in management, consulting, finance, economics, organizational behavior, statistics, and machine learning.
+I specialize in organization strategy: analytics, design, & planning. I have the requisite experience and education in management, consulting, finance, economics, organizational behavior, statistics, and machine learning.
 <br><br>
 Let's connect. See links to my résumé and portfolio above. You may reach me on all social media channels <span style="font-weight:bold">@odenipinedo</span>, or if you prefer, my email link is also included below.
 </p>
