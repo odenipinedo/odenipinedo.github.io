@@ -7,7 +7,7 @@ featured: true
 sitemap:
   priority: 0.5
   changefreq: 'monthly'
-  lastmod: 2020-08-10
+  lastmod: 2020-09-08
   exclude: 'no'
 ---
 
@@ -16,7 +16,7 @@ sitemap:
 </p>
 
 <p align="center">
-I specialize in organization strategy: analytics, design, & planning. I have the requisite experience and education in management, consulting, finance, economics, organizational behavior, frequentist & Bayesian statistics, adjacency & correlational networks, and artificial intelligence.
+I specialize in organization strategy: analytics, design, & planning. I also am curious about understanding cityscapes and helping them promote better health outcomes for all people.
 <br><br>
 All my work starts with the assumption that human life and labor is valued as evidenced by quantifiable measures that tie diversity, equity, and inclusion performance metrics to the triple bottom line of people, planet, and profit.
 <br><br>
