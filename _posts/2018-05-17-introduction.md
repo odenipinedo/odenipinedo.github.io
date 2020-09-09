@@ -16,7 +16,7 @@ sitemap:
 </p>
 
 <p align="center">
-I specialize in organization strategy: analytics, design, & planning. I also am curious about understanding how cityscapes impact us and improving them to promote better health outcomes.
+I specialize in organization strategy: analytics, design, & planning. I also am curious about understanding how urban spaces impact us and how we can improve them to promote better health outcomes.
 <br><br>
 My work starts with the assumption that human life and labor is valued as evidenced by quantifiable measures that tie diversity, equity, and inclusion performance metrics to the triple bottom line of people, planet, and profit.
 <br><br>
