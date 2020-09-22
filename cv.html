@@ -1,22 +1,22 @@
 ---
-title: Résumé
+title: CV
 layout: default
 sitemap:
   priority: 0.6
   changefreq: 'monthly'
-  lastmod: 2019-03-25
+  lastmod: 2020-09-22
   exclude: 'no'
 ---
      
 {% for post in site.posts %}
-  {% if post.categories contains 'resume' %}
+  {% if post.categories contains 'cv' %}
   <article>
     <h2 align = "center">
         {{ post.title }}
     </h2>
     <p align = "center">
       category:
-      <a href="{{site.baseurl}}/categories/#resume">resume</a>
+      <a href="{{site.baseurl}}/categories/#cv">cv</a>
     </p>
     {{ post.content | markdownify }}
   </article>
