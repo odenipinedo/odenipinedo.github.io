@@ -7,7 +7,7 @@ featured: true
 sitemap:
   priority: 0.5
   changefreq: 'monthly'
-  lastmod: 2020-09-08
+  lastmod: 2020-09-22
   exclude: 'no'
 ---
 
@@ -20,5 +20,5 @@ I specialize in organization strategy: analytics, design, & planning. I also am 
 <br><br>
 My work starts with the assumption that human life and labor is valued as evidenced by quantifiable measures that tie diversity, equity, and inclusion performance metrics to the triple bottom line of people, planet, and profit.
 <br><br>
-Let's connect. See links to my résumé and portfolio above. You may reach me on all social media channels <span style="font-weight:bold">@odenipinedo</span>, or if you prefer, my email link is also included below.
+Let's connect. See links to my CV's and portfolio above. You may reach me on all social media channels <span style="font-weight:bold">@odenipinedo</span>, or if you prefer, my email link is also included below.
 </p>
