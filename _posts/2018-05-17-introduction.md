@@ -16,9 +16,9 @@ sitemap:
 </p>
 
 <p align="center">
-My primary skillset is organizational strategy, including analytics, design, and planning in public, private, and civic sectors. I am curious about how urban spaces impact well-being and how we can improve them to promote better health outcomes for those who live in those spaces.
-<br><br>
 Art and humor are essential for my life. Moreover, I believe they are key elements for social cohesion in general. My life vision and mission is to understand and grow public spaces where social cohesion takes place.
+<br><br>
+My primary skillset is organizational strategy, including analytics, design, and planning with experience in public, private, and civic sectors. I am curious about how urban spaces impact well-being and how we can improve them to promote better health outcomes for those who live in those spaces.
 <br><br>
 Let's connect. See links to my CV and portfolio above. You may reach me on all social media channels <span style="font-weight:bold">@odenipinedo</span>, or if you prefer, links are included below.
 </p>
