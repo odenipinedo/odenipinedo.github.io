@@ -16,7 +16,7 @@ sitemap:
 </p>
 
 <p align="center">
-Art and humor are essential for my life. Moreover, I believe they are key elements for social cohesion in general. My life vision and mission is to understand and grow public spaces where social cohesion takes place.
+Art and humor are essential for my life. Moreover, I believe they are key elements for social cohesion in general. My life vision and mission is to understand and grow public spaces where nurturing and connectedness happen.
 <br><br>
 My primary skillset is organizational strategy, including analytics, design, and planning. I have extensive experience in the public, private, and civic sectors.
 <br><br>
