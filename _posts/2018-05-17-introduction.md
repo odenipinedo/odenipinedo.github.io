@@ -7,7 +7,7 @@ featured: true
 sitemap:
   priority: 0.5
   changefreq: 'monthly'
-  lastmod: 2020-09-22
+  lastmod: 2020-10-18
   exclude: 'no'
 ---
 
@@ -16,9 +16,9 @@ sitemap:
 </p>
 
 <p align="center">
-I specialize in organization strategy: analytics, design, & planning. I also am curious about understanding how urban spaces impact us and how we can improve them to promote better health outcomes.
+My primary skillset is organizational strategy, including analytics, design, and planning in public, private, and civic sectors. I am curious about how urban spaces impact well-being and how we can improve them to promote better health outcomes for those who live in those spaces.
 <br><br>
-My work starts with the assumption that human life and labor is valued as evidenced by quantifiable measures that tie diversity, equity, and inclusion performance metrics to the triple bottom line of people, planet, and profit.
+Art and humor are essential for my life. Moreover, I believe they are key elements for social cohesion in general. My life vision and mission is to understand and grow public spaces where social cohesion takes place.
 <br><br>
 Let's connect. See links to my CV's and portfolio above. You may reach me on all social media channels <span style="font-weight:bold">@odenipinedo</span>, or if you prefer, my email link is also included below.
 </p>
