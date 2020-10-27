@@ -18,7 +18,7 @@ sitemap:
 <p align="center">
 Experiencing joy and laughter are essential elements for my life. Moreover, I believe they are key elements for social cohesion in general. My life vision and mission is to study, understand, and nurture those things that enable social bonds in our common spaces.
 <br><br>
-My primary skillset is organizational strategy, including analytics, design, and planning. I have extensive experience in the public, private, and civic sectors.
+My primary skillset is organizational strategy which includes analytics, design, and planning. I have extensive experience in the public, private, and civic sectors.
 <br><br>
 Let's connect. See links to my CV and portfolio above. You may reach me on all social media channels <span style="font-weight:bold">@odenipinedo</span>, or if you prefer, links are included below.
 </p>
