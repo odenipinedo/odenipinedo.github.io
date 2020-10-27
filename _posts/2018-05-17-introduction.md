@@ -7,7 +7,7 @@ featured: true
 sitemap:
   priority: 0.5
   changefreq: 'monthly'
-  lastmod: 2020-10-18
+  lastmod: 2020-10-27
   exclude: 'no'
 ---
 
@@ -16,7 +16,7 @@ sitemap:
 </p>
 
 <p align="center">
-Art and humor are essential for my life. Moreover, I believe they are key elements for social cohesion in general. My life vision and mission is to understand and grow public spaces where nurturing and connectedness happen.
+Experiencing joy and laughter are essential elements for my life. Moreover, I believe they are key elements for social cohesion in general. My life vision and mission is to study, understand and nurture those things that enable social bonds in our common spaces.
 <br><br>
 My primary skillset is organizational strategy, including analytics, design, and planning. I have extensive experience in the public, private, and civic sectors.
 <br><br>
