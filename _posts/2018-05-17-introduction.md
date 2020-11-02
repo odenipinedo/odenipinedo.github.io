@@ -16,7 +16,7 @@ sitemap:
 </p>
 
 <p align="center">
-Experiencing joy and laughter with others are the essential elements for me to be happy in my life. Moreover, I believe these are key ingredients for social connection in general. My life vision and mission is to study, understand, and nurture public spaces that enable these moments of shared joy.
+Experiencing joy and laughter with others are the essential elements for me to be happy in my life. Moreover, I believe these are key ingredients for social connection in general. My life vision and mission is to study, understand, and nurture public spaces that enable these moments of shared happiness.
 <br><br>
 I am a subject matter expert in data science, statistics, mental health science, and organizational theory. I have extensive experience in the public, private, and civic sectors.
 <br><br>
