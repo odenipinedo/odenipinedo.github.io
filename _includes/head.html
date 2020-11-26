@@ -46,7 +46,11 @@
           link += (key.charAt(ltr))
         }
       }
-    document.write("<i class='fas fa-envelope'></i>&nbsp;<a href='mailto:"+link+"'></a>")
+    document.write("
+                   <a href='mailto:"+link+"' target="_blank" rel="noopener noreferrer">
+                      <i class="fas fa-envelope"></i>
+                   </a>
+                   ")
     }
     //-->
   </script><noscript>Sorry, you need Javascript enabled to email me.</noscript>
