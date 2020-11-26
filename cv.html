@@ -14,10 +14,14 @@ sitemap:
     <h2>
         {{ post.title }}
     </h2>
-    <p>
-      category:
-      <a href="{{site.baseurl}}/categories/#cv">cv</a>
-    </p>
+    if ($check==1){
+        <p>
+           category:
+           <a href="{{site.baseurl}}/categories/#cv">cv</a>
+        </p>
+        $check=0;
+        }
+       
     {{ post.content | markdownify }}
   </article>
   {% endif %}
