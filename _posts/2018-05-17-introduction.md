@@ -3,11 +3,12 @@ layout: post
 title:  "Introduction"
 date:   2018-05-17 18:00:00 -0700
 categories: [about]
+tags: about introduction
 featured: true
 sitemap:
   priority: 0.5
   changefreq: 'monthly'
-  lastmod: 2020-11-25
+  lastmod: 2020-11-26
   exclude: 'no'
 ---
 
