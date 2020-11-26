@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Introduction"
+title:  "introduction"
 date:   2020-11-26 18:00:00 -0700
 categories: [about]
 tags: about introduction
