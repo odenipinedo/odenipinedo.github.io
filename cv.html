@@ -7,22 +7,16 @@ sitemap:
   lastmod: 2020-09-22
   exclude: 'no'
 ---
-$check = 1;     
+<p>
+  category:
+  <a href="{{site.baseurl}}/categories/#cv">cv</a>
+</p>   
 {% for post in site.posts %}
   {% if post.categories contains 'cv' %}
   <article>
-    <h2>
-        {{ post.title }}
-    </h2>
-    {% if ($check==1) %}
-        <p>
-           category:
-           <a href="{{site.baseurl}}/categories/#cv">cv</a>
-        </p>
-        $check=0;
-    {% endif %}
        
     {{ post.content | markdownify }}
+    
   </article>
   {% endif %}
 {% endfor %}
