@@ -14,13 +14,13 @@ sitemap:
 {% for post in site.posts %}
   {% if post.categories contains 'cv' %}
   <article>
-      
-    {{ post.content | markdownify }}
     
     <small>
         updated:
         {{ post.date | date: "%-d %B %Y" }}
     </small>
+    
+    {{ post.content | markdownify }}
     
   </article>
   {% endif %}
