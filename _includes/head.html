@@ -1,12 +1,22 @@
 <head>
-  <style>
+  <style>    
     .row {
-      display: flex;
-    }
+       display: flex;
+       flex-direction: row;
+       flex-wrap: wrap;
+       width: 100%;
+     }
     .column {
-      flex: 70%;
+      display: flex;
+      flex-direction: column;
+      flex-basis: 100%;
     }
-    .image {
+    .double-column {
+      display: flex;
+      flex-direction: column;
+      flex-basis: 100%;
+    }
+     .image {
       display: flex;
       position: absolute;
       bottom: 90px;
@@ -16,12 +26,13 @@
       width: 100px;
       height: 96px;
     }
-    /* Responsive layout - when the screen is less than 600px wide, make the two columns stack on top of each other instead of next to each other */
-    @media screen and (max-width: 600px) {
+    @media screen and (min-width: 800px) {
       .column {
-        flex-flow: row wrap
-        width: 100%;
-       }
+        flex: 1
+      }
+      .double-column {
+        flex: 2
+      }
     }
   </style>  
 </head>
