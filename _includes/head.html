@@ -16,10 +16,16 @@
       flex-direction: column;
       flex-basis: 100%;
     }
-     .image {
+    .text {
       display: flex;
-      bottom: 90px;
-      right: 60px;
+      background-color: blue;
+      height = 300px;
+    }
+    .image {
+      display: flex;
+      background-color: orange;
+      height = 150px;
+      align-items: center;
     }
     .image div {
       width: 100px;
@@ -39,6 +45,7 @@
 <body>
 <div class="row">
   <div class="column">
+  <div class="text">
     <h3>Portfolio</h3>
     <p>
       <a href="/cv" class="btn">
@@ -99,9 +106,10 @@
         </script><noscript>Sorry, you need Javascript on to email me.</noscript>
     </div>
   </div>
+  </div>
   <div class="column">
       <div class="image">
-        <div><br><br><img src="assets/png/dp.png" alt="dp"></div> 
+        <div><img src="assets/png/dp.png" alt="dp"></div> 
       </div>
   </div>
 </div>
