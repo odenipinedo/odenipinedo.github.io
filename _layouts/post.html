@@ -5,7 +5,10 @@ layout: default
 <h2>
       {{ page.title }} 
  </h2>
- <div class="post-categories">
+
+{{content}}
+
+<div class="post-categories">
    <p>
    {% if post %}
     {% assign categories = post.categories %}
@@ -20,10 +23,7 @@ layout: default
    </p>
 </div>
 
-{{content}}
-
-<!-- Test remove
-
+<!-- may integrate tags at a later date. For now, it is commented out.
 
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
