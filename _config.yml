@@ -1,16 +1,11 @@
 theme: jekyll-theme-minimal
-title: Daniel Pinedo
+title: about
 description:
 url: "https://pinedo.org"
 author: Daniel Pinedo
 
 show_downloads: false
 google_analytics: UA-119529330-1
-
-social-links: 
-  github: odenipinedo
-  twitter: odenipinedo
-  linkedin: odenipinedo
 
 plugins:
   - jemoji
