@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Daniel Pinedo"
+title:  "Introduction"
 date:   2018-05-17 18:00:00 -0700
 categories: [about]
 featured: true
