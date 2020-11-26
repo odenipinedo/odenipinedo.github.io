@@ -15,6 +15,7 @@ sitemap:
     <h2>
       {{ post.title }} 
     </h2>
+    {{ post.content | markdownify }}
     <div class="post-categories">
       <p>
       {% if post %}
@@ -29,7 +30,6 @@ sitemap:
       {% endfor %}
       </p>
      </div>
-    {{ post.content | markdownify }}
   {% endif %}
 {% endfor %}
 </div>
