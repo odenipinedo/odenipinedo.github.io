@@ -9,6 +9,7 @@ sitemap:
   lastmod: 2020-11-26
   exclude: 'no'
 ---
+<h2>categories</h2>
 
 <div id="archives">
 {% for category in site.categories %}
@@ -17,7 +18,7 @@ sitemap:
     <div id="#{{ category_name | slugize }}"></div>
     <p></p>
     
-    <h2 class="category-head">{{ category_name }}</h2>
+    <h4 class="category-head">{{ category_name }}</h4>
     <a name="{{ category_name | slugize }}"></a>
     {% for post in site.categories[category_name] %}
     <article class="archive-item">
