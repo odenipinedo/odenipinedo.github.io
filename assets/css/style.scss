@@ -2,3 +2,41 @@
 ---
 
 @import "{{ site.theme }}";
+
+.row {
+       display: flex;
+       flex-direction: row;
+       flex-wrap: wrap;
+       width: 100%;
+      align-content: space-evenly;
+     }
+    .column {
+      display: flex;
+      flex-direction: column;
+      flex-basis: 100%;
+      align-content: space-between;
+    }
+    .double-column {
+      display: flex;
+      flex-direction: column;
+      flex-basis: 100%;
+      align-content: space-between;
+    }
+    .image {
+      display: flex;
+    }
+    .image div {
+      width: 100px;
+      height: 96px;
+    }
+    .bottom {
+      margin-bottom: 18px;
+    }
+    @media screen and (min-width: 800px) {
+      .column {
+        flex: 1
+      }
+      .double-column {
+        flex: 2
+      }
+    }
