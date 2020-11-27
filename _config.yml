@@ -10,3 +10,8 @@ google_analytics: UA-119529330-1
 plugins:
   - jemoji
   - jekyll-seo-tag
+  
+# Location of the SCSS partials
+#
+sass:
+  sass_dir:   _sass
