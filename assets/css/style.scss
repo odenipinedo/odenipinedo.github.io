@@ -31,8 +31,9 @@
     }
 .column .image+h3 {
       flex: 1;
-      position: relative;
-      right: 40;
+      position: fixed;
+      right: 40px;
+       top: 106px;
     }
 @media screen and (min-width: 800px) {
       .column {
