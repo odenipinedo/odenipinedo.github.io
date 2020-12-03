@@ -20,7 +20,7 @@
       flex-basis: 100%;
     }
 .image {
-      display: flex;
+      vertical-align:middle
     }
 .image div {
       width: 100px;
@@ -28,9 +28,6 @@
     }
 .bottom {
       margin-bottom: 18px;
-    }
-.center {
-      text-align:center;
     }
 @media screen and (min-width: 800px) {
       .column {
