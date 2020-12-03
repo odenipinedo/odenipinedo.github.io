@@ -20,7 +20,8 @@
       flex-basis: 100%;
     }
 .image {
-      vertical-align:middle
+      display: flex;
+      align-items:center;
     }
 .image div {
       width: 100px;
