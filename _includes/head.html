@@ -31,32 +31,30 @@
         </div>
     </div>
     
-    <div class = "bottom">
-        <script type="text/javascript" language="javascript">
-        <!--
-        // Email obfuscator script 2.1 by Tim Williams, University of Arizona
-        // Random encryption key feature coded by Andrew Moulden
-        // This code is freeware provided these four comment lines remain intact
-        // A wizard to generate this code is at http://www.jottings.com/obfuscator/
-        { coded = "EMH3OA@T3HOE9.9CU"
-          key = "ukQgA7PhfXmaTnFd64NDUGZwbSoqMKHvEY5txiRrycj9e021sl8BzJ3WCpVILO"
-          shift=coded.length
-          link=""
-          for (i=0; i<coded.length; i++) {
-            if (key.indexOf(coded.charAt(i))==-1) {
-              ltr = coded.charAt(i)
-              link += (ltr)
-            }
-            else {     
-              ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
-              link += (key.charAt(ltr))
-            }
-          }
-        document.write("<h3><a href='mailto:"+link+"'>contact</a></h3>")
+    <script type="text/javascript" language="javascript">
+    <!--
+    // Email obfuscator script 2.1 by Tim Williams, University of Arizona
+    // Random encryption key feature coded by Andrew Moulden
+    // This code is freeware provided these four comment lines remain intact
+    // A wizard to generate this code is at http://www.jottings.com/obfuscator/
+    { coded = "EMH3OA@T3HOE9.9CU"
+      key = "ukQgA7PhfXmaTnFd64NDUGZwbSoqMKHvEY5txiRrycj9e021sl8BzJ3WCpVILO"
+      shift=coded.length
+      link=""
+      for (i=0; i<coded.length; i++) {
+        if (key.indexOf(coded.charAt(i))==-1) {
+          ltr = coded.charAt(i)
+          link += (ltr)
         }
-        //-->
-        </script><noscript>Sorry, you need Javascript on to email me.</noscript>
-    </div>
+        else {     
+          ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+          link += (key.charAt(ltr))
+        }
+      }
+    document.write("<h3><a href='mailto:"+link+"'>contact</a></h3>")
+    }
+    //-->
+    </script><noscript>Sorry, you need Javascript on to email me.</noscript>
   </div>
     
   <h3><a href="/cv"><b>cv</b></a>
