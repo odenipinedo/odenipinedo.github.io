@@ -30,9 +30,7 @@
       margin-bottom: 18px;
     }
 .center {
-      display: flex;
-      align-items: center;
-      justify-content: center;
+      text-align:center;
     }
 @media screen and (min-width: 800px) {
       .column {
