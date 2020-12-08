@@ -2,7 +2,7 @@ Gem::Specification.new do |s|
   s.name          = 'Daniel Pinedo'
   s.version       = '0.5'
   s.license       = 'CC0-1.0'
-  s.authors       = ['Daniel Pinedo', 'GitHub, Inc.']
+  s.authors       = ['Daniel Pinedo']
   s.email         = ['daniel@pinedo.org']
   s.homepage      = 'https://pinedo.org'
   s.summary       = 'This is Daniel's page'
