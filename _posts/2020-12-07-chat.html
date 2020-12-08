@@ -12,13 +12,12 @@ sitemap:
   exclude: 'no'
 ---
 
+<button class="js-gitter-toggle-chat-button">Toggle Chat</button>
 <script>
   ((window.gitter = {}).chat = {}).options = {
     room: 'odenipinedo/community',
-    activationElement: '.my-special-button',
-    targetElement: '.my-special-target-element'
+    activationElement: '.js-gitter-toggle-chat-button',
+
   };
 </script>
 <script src="https://sidecar.gitter.im/dist/sidecar.v1.js" async defer></script> <noscript>Sorry, you need Javascript on to chat with me.</noscript>
-
-<button class="js-gitter-toggle-chat-button">Toggle Chat</button>
