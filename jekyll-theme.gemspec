@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name          = 'Daniel Pinedo'
+  s.name          = 'jekyll-theme-minimal-dp'
   s.version       = '0.5'
   s.license       = 'CC0-1.0'
   s.authors       = ['Daniel Pinedo']
