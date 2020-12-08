@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.authors       = ['Daniel Pinedo']
   s.email         = ['daniel@pinedo.org']
   s.homepage      = 'https://pinedo.org'
-  s.summary       = 'This is Daniel\'s page'
+  s.summary       = 'personal webpage for Daniel Pinedo'
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
     f.match(%r{^((_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
