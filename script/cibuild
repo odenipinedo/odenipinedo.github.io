@@ -1,9 +1,0 @@
-#!/bin/sh
-
-set -e
-
-bundle exec jekyll build
-# bundle exec htmlproofer ./_site --check-html --check-sri #error 1
-# bundle exec rubocop -D #error 1
-# bundle exec script/validate-html #error 1
-gem build jekyll-theme.gemspec
