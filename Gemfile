@@ -4,5 +4,3 @@ gem "jekyll"
 gem "jemoji"
 gem "jekyll-seo-tag"
 gem "html-proofer"
-
-gemspec
