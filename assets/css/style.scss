@@ -3,6 +3,9 @@
 
 @import "jekyll-theme-minimal";
 
+.container {
+     text-align: center;
+     }
 .row {
        display: flex;
        flex-direction: row;
