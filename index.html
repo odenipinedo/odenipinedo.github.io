@@ -33,3 +33,22 @@ sitemap:
   {% endif %}
 {% endfor %}
 </div>
+
+<h2>
+  Category:
+  <a href="{{site.baseurl}}/categories/#intro">intro</a>
+</h2>   
+{% for post in site.posts %}
+  {% if post.categories contains 'intro' %}
+  <article>
+    
+    <small>
+        updated:
+        {{ post.date | date: "%-d %B %Y" }}
+    </small>
+    
+    {{ post.content | markdownify }}
+    
+  </article>
+  {% endif %}
+{% endfor %}
