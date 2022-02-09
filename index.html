@@ -3,8 +3,8 @@ title: Home
 layout: default
 sitemap:
   priority: 0.7
-  changefreq: 'monthly'
-  lastmod: 2020-04-30
+  changefreq: 'yearly'
+  lastmod: 2022-02-09
   exclude: 'no'
 ---
 
@@ -33,22 +33,3 @@ sitemap:
   {% endif %}
 {% endfor %}
 </div>
-
-<h2>
-  Category:
-  <a href="{{site.baseurl}}/categories/#intro">intro</a>
-</h2>   
-{% for post in site.posts %}
-  {% if post.categories contains 'intro' %}
-  <article>
-    
-    <small>
-        updated:
-        {{ post.date | date: "%-d %B %Y" }}
-    </small>
-    
-    {{ post.content | markdownify }}
-    
-  </article>
-  {% endif %}
-{% endfor %}
