@@ -6,6 +6,8 @@ author: Daniel Pinedo
 show_downloads: false
 google_analytics: UA-119529330-1
 
+markdown: GFM
+
 plugins:
   - jemoji
   - jekyll-seo-tag
