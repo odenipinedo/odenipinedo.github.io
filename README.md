@@ -2,3 +2,5 @@
 [![Actions Status](https://github.com/odenipinedo/odenipinedo.github.io/workflows/Jekyll%20site%20CI/badge.svg)](https://github.com/odenipinedo/odenipinedo.github.io/actions)
 [![Actions Satus](https://github.com/odenipinedo/odenipinedo.github.io/workflows/Ruby%20CI/badge.svg)](https://github.com/odenipinedo/odenipinedo.github.io/actions)
 - [rendered version](https://pinedo.org)
+
+Jekyll/Ruby builds are tested on Ubuntu and MacOS
