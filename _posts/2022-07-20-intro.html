@@ -18,15 +18,31 @@ Please browse the menu items to view samples of my technical education and work.
 
 You may contact me via &nbsp;
   <a href="https://www.linkedin.com/in/odenipinedo" title="Linkedin" alt="Linkedin" target="_blank" rel="noopener noreferrer">
-    in &nbsp;
+    LinkedIn &nbsp;
   </a>
 or &nbsp;
+
 <script type="text/javascript" language="javascript">
 <!--
-// eMail Obfuscator Script 1.31 by Tim Williams - freeware
-    {     document.write(String.fromCharCode(60,97,32,104,114,101,102,61,34,109,97,105,108,116,111,58,100,64,112,105,110,101,46,100,111,34,62,101,109,97,105,108,60,47,97,62))
-     }
+// Email obfuscator script 2.1 by Tim Williams, University of Arizona
+// Random encryption key feature by Andrew Moulden, Site Engineering Ltd
+// This code is freeware provided these four comment lines remain intact
+// A wizard to generate this code is at http://www.justudin.com/anti-spam-email/
+{ coded = "l@18hK.lw"
+  key = "xH695BK1CoWVDtbkgnwGdFySuNhYilRU47A0q82EfaQT3IjrZsOMcJmvPzXepL"
+  shift=coded.length
+  link=""
+  for (i=0; i<coded.length; i++) {
+    if (key.indexOf(coded.charAt(i))==-1) {
+      ltr = coded.charAt(i)
+      link += (ltr)
+    }
+    else {     
+      ltr = (key.indexOf(coded.charAt(i))-shift+key.length) % key.length
+      link += (key.charAt(ltr))
+    }
+  }
+document.write("<a href='mailto:"+link+"'>email</a>")
+}
 //-->
-</script>
-<noscript>
-</noscript>
+</script><noscript>Sorry, you need Javascript ON to see my email.</noscript>
