@@ -32,3 +32,28 @@ sitemap:
   {% endif %}
 {% endfor %}
 </div>
+
+
+
+
+<!-- This section below shows how to use Ruby/Jekyll to parse and present posts by category instead of by featured tag as indicated above
+<h2>
+  Category:
+  <a href="{{site.baseurl}}/categories/#resume">cv</a>
+</h2>   
+{% for post in site.posts %}
+  {% if post.categories contains 'resume' %}
+  <article>
+    
+    <small>
+        updated:
+        {{ post.date | date: "%-d %B %Y" }}
+    </small>
+    
+    {{ post.content | markdownify }}
+    
+  </article>
+  {% endif %}
+{% endfor %}
+
+-->
