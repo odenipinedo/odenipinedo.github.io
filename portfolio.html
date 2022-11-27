@@ -1,0 +1,27 @@
+---
+title: portfolio
+layout: default
+sitemap:
+  priority: 0.7
+  changefreq: 'yearly'
+  lastmod: 2022-11-26
+  exclude: 'no'
+---
+<h2>
+  Category:
+  <a href="{{site.baseurl}}/categories/#portfolio">cv</a>
+</h2>   
+{% for post in site.posts %}
+  {% if post.categories contains 'portfolio' %}
+  <article>
+    
+    <small>
+        updated:
+        {{ post.date | date: "%-d %B %Y" }}
+    </small>
+    
+    {{ post.content | markdownify }}
+    
+  </article>
+  {% endif %}
+{% endfor %}
