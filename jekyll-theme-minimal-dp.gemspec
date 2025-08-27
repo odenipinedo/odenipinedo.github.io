@@ -3,8 +3,8 @@ Gem::Specification.new do |s|
   s.version       = '0.6'
   s.license       = 'CC0-1.0'
   s.authors       = ['Daniel Pinedo']
-  s.email         = ['daniel@pinedo.org']
-  s.homepage      = 'https://pinedo.org'
+  s.email         = ['d@pine.do']
+  s.homepage      = 'https://pine.do'
   s.summary       = 'personal webpage for Daniel Pinedo'
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
